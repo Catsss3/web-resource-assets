@@ -1,5 +1,5 @@
 
-name: Proxy Auto-Conveyor
+name: Final-Blondie-Auto
 on:
   push:
     paths: ['input/**']
@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Set up Python
+      - name: Setup
         uses: actions/setup-python@v4
         with: {python-version: '3.10'}
-      - name: Run Worker
+      - name: Execution
         env:
           WORKFLOW_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
         run: |
