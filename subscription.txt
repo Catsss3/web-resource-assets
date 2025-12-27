@@ -1,0 +1,2 @@
+vless://uuid@ip:port?security=tls&sni=v01.gosuslugi.ru#MyProxy1
+vless://uuid@ip:port?security=tls&sni=v01.gosuslugi.ru#MyProxy2
