@@ -15,8 +15,7 @@ def get_file_sha(path: str):
 def get_file_content(path: str) -> str:
     url = f"https://api.github.com/repos/{REPO}/contents/{path}"
     r = requests.get(url, headers=HEADERS)
-    if r.status_code != 200:
-        return ""
+    if r.status_code != 200: return ""
     return base64.b64decode(r.json()['content']).decode()
 
 def push_content(path: str, content: str, message: str):
@@ -26,8 +25,7 @@ def push_content(path: str, content: str, message: str):
         "message": message,
         "content": base64.b64encode(content.encode()).decode()
     }
-    if sha:
-        payload["sha"] = sha
+    if sha: payload["sha"] = sha
     requests.put(url, headers=HEADERS, json=payload)
 
 def main():
@@ -35,40 +33,33 @@ def main():
     sni_raw = get_file_content("endpoints.txt")
     sni_list = [s.strip() for s in sni_raw.split("\n") if s.strip()]
 
-    # список файлов в input/
     r = requests.get(f"https://api.github.com/repos/{REPO}/contents/input", headers=HEADERS)
-    if r.status_code != 200:
-        return
+    if r.status_code != 200: return
     items = r.json()
 
     valid_links = []
     files_to_delete = []
 
     for item in items:
-        if item["name"] == ".keep":
-            continue
+        if item["name"] == ".keep": continue
         files_to_delete.append(item)
-
         raw = requests.get(item["download_url"]).text
         for line in raw.split("\n"):
-            if "://" not in line:
-                continue
+            if "://" not in line: continue
             for sni in sni_list:
                 masked = re.sub(r"(sni=)[^&#]+", r"\1" + sni, line.strip())
-                # здесь можно добавить реальную проверку через gstatic, если понадобится
                 valid_links.append(masked)
 
     if valid_links:
-        uniq = "\n".join(sorted(set(valid_links)))
-        push_content("subscription.txt", uniq, "✅ Workers: Updated subscription")
-        print(f"🔥 Успех! Добавлено {len(uniq.split('\n'))} уникальных ссылок.")
+        uniq_list = sorted(list(set(valid_links)))
+        count = len(uniq_list)
+        final_data = "\n".join(uniq_list)
+        push_content("subscription.txt", final_data, f"✅ Workers: Added {count} proxies")
+        print(f"🔥 Успех! Добавлено много новых узлов.")
 
-    # очистка папки input/
     for f in files_to_delete:
-        del_url = f"https://api.github.com/repos/{REPO}/contents/{f['path']}"
-        requests.delete(del_url, headers=HEADERS,
-                       json={"message": "🗑 Clean input", "sha": f["sha"]})
-
+        requests.delete(f"https://api.github.com/repos/{REPO}/contents/{f['path']}", 
+                        headers=HEADERS, json={"message": "🗑 Clean input", "sha": f["sha"]})
     print("🧹 Входная папка очищена.")
 
 if __name__ == "__main__":
