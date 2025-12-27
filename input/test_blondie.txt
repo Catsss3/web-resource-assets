@@ -1,3 +1,0 @@
-vless://6f728c82-3594-4694-8231-15e9854728f5@172.67.170.168:443?encryption=none&security=tls&sni=google.com&type=ws&host=it.vless88.top&path=%2F#🇮🇹_Italy_Gift
-vless://4f552a41-2134-4221-9121-14f552a41221@104.21.72.13:443?encryption=none&security=tls&sni=yandex.ru&type=ws&host=fr1.vless88.top&path=%2F#🇫🇷_France_Chic
-vless://d1234567-e89b-12d3-a456-426614174000@104.16.51.111:443?encryption=none&security=tls&sni=microsoft.com&type=ws&host=tr.vless88.top&path=%2F#🇹🇷_Turkey_Luxe
