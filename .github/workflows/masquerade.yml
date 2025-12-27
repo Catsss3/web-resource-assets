@@ -1,0 +1,66 @@
+name: Proxy Masquerade Auto-Conveyor
+on:
+  push:
+    paths:
+      - 'input/**' # Сработает сразу, как только ты закинешь файл в папку input
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Masquerade Script
+        env:
+          GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
+        run: |
+          python - <<EOF
+          import requests, base64, re, os
+
+          TOKEN = os.getenv("GITHUB_TOKEN")
+          REPO = "${{ github.repository }}"
+          headers = {"Authorization": f"token {TOKEN}"}
+
+          # 1. Грузим SNI
+          r_sni = requests.get(f"https://api.github.com/repos/{REPO}/contents/endpoints.txt", headers=headers)
+          sni_list = [s.strip() for s in base64.b64decode(r_sni.json()['content']).decode('utf-8').split('\n') if s.strip()]
+          best_sni = sni_list[0] if sni_list else "v01.gosuslugi.ru"
+
+          # 2. Собираем всё из input
+          r_input = requests.get(f"https://api.github.com/repos/{REPO}/contents/input", headers=headers)
+          if r_input.status_code == 200:
+              new_proxies = []
+              for file in r_input.json():
+                  if file['type'] == 'file' and not file['name'].startswith('.'):
+                      r_c = requests.get(file['download_url'])
+                      for line in r_c.text.split('\n'):
+                          if "://" in line:
+                              masked = re.sub(r'(sni=)[^&#]+', r'\1' + best_sni, line)
+                              if "sni=" not in masked:
+                                  sep = "&" if "?" in masked else "?"
+                                  masked = masked.split('#')[0] + f"{sep}sni={best_sni}" + (f"#{masked.split('#')[1]}" if "#" in masked else "")
+                              new_proxies.append(masked)
+                      
+                      # Удаляем файл из input
+                      requests.delete(f"https://api.github.com/repos/{REPO}/contents/{file['path']}", 
+                                      headers=headers, json={"message": "Clean input", "sha": file['sha']})
+
+              # 3. Обновляем подписку
+              if new_proxies:
+                  r_sub = requests.get(f"https://api.github.com/repos/{REPO}/contents/subscription.txt", headers=headers)
+                  sub_sha = r_sub.json().get('sha') if r_sub.status_code == 200 else None
+                  old_content = base64.b64decode(r_sub.json()['content']).decode('utf-8') if sub_sha else ""
+                  
+                  final_content = "\n".join(list(set((old_content + "\n" + "\n".join(new_proxies)).split('\n')))).strip()
+                  payload = {"message": "Blondie: Auto-update 💅", "content": base64.b64encode(final_content.encode()).decode(), "sha": sub_sha}
+                  requests.put(f"https://api.github.com/repos/{REPO}/contents/subscription.txt", headers=headers, json=payload)
+          EOF
