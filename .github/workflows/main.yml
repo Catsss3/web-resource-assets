@@ -1,0 +1,73 @@
+
+name: Proxy Masquerade Auto-Conveyor
+
+on:
+  push:
+    paths:
+      - 'input/**'
+  workflow_dispatch:
+
+jobs:
+  process_proxies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Core Logic
+        env:
+          WORKFLOW_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
+        run: |
+          python - <<EOF
+          import os, requests, base64, re
+
+          TOKEN = os.getenv('WORKFLOW_TOKEN')
+          REPO = "${{ github.repository }}"
+          HEADERS = {"Authorization": f"token {TOKEN}", "Accept": "application/vnd.github.v3+json"}
+          CHECK_URL = "http://www.gstatic.com/generate_204"
+
+          def run():
+              # 1. Читаем input
+              res = requests.get(f"https://api.github.com/repos/{REPO}/contents/input", headers=HEADERS)
+              if res.status_code != 200 or not isinstance(res.json(), list): return
+
+              valid_nodes = []
+              files_to_clean = []
+
+              for file in res.json():
+                  if file['name'].startswith('.'): continue
+                  raw = requests.get(file['download_url']).text
+                  for line in raw.split('\n'):
+                      if "://" in line:
+                          # Маскировка и будущая проверка
+                          masked = re.sub(r'(sni=)[^&#]+', r'\1v01.gosuslugi.ru', line.strip())
+                          valid_nodes.append(masked)
+                  files_to_clean.append(file)
+
+              if valid_nodes:
+                  # 2. Обновляем подписку
+                  sub_res = requests.get(f"https://api.github.com/repos/{REPO}/contents/subscription.txt", headers=HEADERS)
+                  sha = sub_res.json()['sha'] if sub_res.status_code == 200 else None
+                  
+                  # Собираем уникальные прокси
+                  final_text = "\n".join(list(set(valid_nodes)))
+                  requests.put(f"https://api.github.com/repos/{REPO}/contents/subscription.txt", headers=HEADERS, json={
+                      "message": "💎 Processed by Blondie Auto-Conveyor",
+                      "content": base64.b64encode(final_text.encode()).decode(),
+                      "sha": sha
+                  })
+
+                  # 3. Чистим input
+                  for f in files_to_clean:
+                      requests.delete(f"https://api.github.com/repos/{REPO}/contents/{f['path']}", 
+                                      headers=HEADERS, json={"message": "Cleaned! 💋", "sha": f['sha']})
+          run()
+          EOF
