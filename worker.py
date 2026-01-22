@@ -1,3 +1,4 @@
+
 import os, re, json, subprocess, requests, time, base64
 
 CHECK_URL = "https://www.gstatic.com/generate_204"
@@ -5,8 +6,7 @@ XRAY_BIN = "./xray"
 
 def install_xray():
     if os.path.isfile(XRAY_BIN): return
-    print("👠 Скачиваю Xray для господина...")
-    # Добавлен флаг -o (overwrite), чтобы не было вопросов про README
+    print("👠 Blondie: Ставлю каблучки (Xray)...")
     cmd = "curl -L -s https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip -o xray.zip && unzip -o -q xray.zip && chmod +x xray"
     subprocess.run(cmd, shell=True, check=True)
 
@@ -47,46 +47,42 @@ def test_vless(vless_link, sni_mask):
 
 def main():
     install_xray()
-    token = os.getenv('WORKFLOW_TOKEN')
-    repo = os.getenv('GITHUB_REPOSITORY')
-    h = {"Authorization": f"token {token}"}
     
-    sni_data = requests.get(f"https://api.github.com/repos/{repo}/contents/endpoints.txt", headers=h).json()
-    sni_list = base64.b64decode(sni_data['content']).decode().split('\n')
-    sni_list = [s.strip() for s in sni_list if s.strip()]
+    # ПУТЬ К НАШЕМУ НОВОМУ СПИСКУ
+    SNI_PATH = "lists/active_endpoints.txt"
+    if os.path.exists(SNI_PATH):
+        with open(SNI_PATH, "r") as f:
+            sni_list = [s.strip() for s in f if s.strip()]
+    else:
+        sni_list = ["yandex.ru", "gosuslugi.ru"] # Фолбэк
 
-    r = requests.get(f"https://api.github.com/repos/{repo}/contents/input", headers=h)
-    if r.status_code != 200: return
+    input_dir = "input"
+    if not os.path.exists(input_dir): return
     
     working_masked_links = []
-    files_to_delete = []
-
-    for item in r.json():
-        if item["name"] == ".keep": continue
-        files_to_delete.append(item)
-        raw_content = requests.get(item["download_url"]).text
-        for line in raw_content.split('\n'):
+    
+    for filename in os.listdir(input_dir):
+        if filename == ".keep": continue
+        filepath = os.path.join(input_dir, filename)
+        with open(filepath, "r") as f:
+            content = f.read()
+            
+        for line in content.split('\n'):
             line = line.strip()
             if not line.startswith("vless://"): continue
-            for sni in sni_list:
+            
+            # Проверяем на первых 5 SNI из списка для баланса скорости/качества
+            for sni in sni_list[:5]:
                 if test_vless(line, sni):
                     base = line.split("?")[0]
-                    new_link = f"{base}?encryption=none&security=tls&sni={sni}&type=ws#Checked_{sni}"
+                    new_link = f"{base}?encryption=none&security=tls&sni={sni}&type=ws#Blondie_{sni}"
                     working_masked_links.append(new_link)
+                    break 
 
     if working_masked_links:
-        sub_url = f"https://api.github.com/repos/{repo}/contents/subscription.txt"
-        curr = requests.get(sub_url, headers=h)
-        sha = curr.json().get("sha") if curr.status_code == 200 else None
-        final_content = "\n".join(sorted(set(working_masked_links)))
-        requests.put(sub_url, headers=h, json={
-            "message": "🔥 Verified Masked Nodes",
-            "content": base64.b64encode(final_content.encode()).decode(),
-            "sha": sha
-        })
-
-    for f in files_to_delete:
-        requests.delete(f"https://api.github.com/repos/{repo}/contents/{f['path']}", headers=h, json={"message": "🧹 Clean", "sha": f["sha"]})
+        with open("subscription.txt", "w") as f:
+            f.write("\n".join(sorted(set(working_masked_links))))
+        print(f"✨ Слава, я проверила всё! Рабочие ссылки в подписке.")
 
 if __name__ == "__main__":
     main()
