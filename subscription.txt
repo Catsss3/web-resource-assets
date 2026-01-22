@@ -1,2 +1,1 @@
-vless://937667d4-e696-417c-a45e-5b1273918a55@172.67.165.20:443?encryption=none&security=tls&sni=v01.gosuslugi.ru&type=ws#Blondie_FORCE_UPDATE
-vless://6613346d-2c70-4f54-8094-a29285706915@104.21.60.12:443?encryption=none&security=tls&sni=v01.gosuslugi.ru&type=ws#Blondie_FORCE_UPDATE
+vless://937667d4-e696-417c-a45e-5b1273918a55@172.67.165.20:443?encryption=none&security=tls&sni=2gis.ru&type=ws#Blondie_Safe
