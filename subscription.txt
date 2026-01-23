@@ -1,1 +1,1 @@
-vless://test1@1.1.1.1:443\nvless://test2@8.8.8.8:443?encryption=none&security=tls&sni=2gis.ru&type=ws#Blondie_Vip_1
+vless://fixed@1.1.1.1:443#Final_Warning
