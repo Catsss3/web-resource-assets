@@ -1,34 +1,27 @@
 
 name: Final-Blondie-Auto
 on:
-  push:
-    paths: ['input/**', 'lists/**', 'worker.py']
   workflow_dispatch:
-
+  schedule:
+    - cron: '0 */6 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.WORKFLOW_TOKEN }}
-
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v4
-        with: {python-version: '3.10'}
-
-      - name: Execution
-        env:
-          WORKFLOW_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
-          GITHUB_REPOSITORY: ${{ github.repository }}
-        run: |
-          pip install requests
-          python worker.py
-
-      - name: Commit and Push changes
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run worker
+        run: python worker.py
+      - name: Commit and Push
         run: |
           git config --global user.name "Blondie-Bot"
-          git config --global user.email "blondie@gemini.ai"
+          git config --global user.email "blondie@bot.com"
           git add subscription.txt
           git commit -m "💄 Blondie: Auto-update subscription 💅" || exit 0
+          git pull --rebase origin main
           git push
