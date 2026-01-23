@@ -10,8 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Run worker
         run: python worker.py
       - name: Commit and Push
@@ -19,5 +17,5 @@ jobs:
           git config --global user.name "Blondie-Bot"
           git config --global user.email "blondie@bot.com"
           git add subscription.txt
-          git commit -m "💄 Blondie: Fixed 💅" || exit 0
+          git commit -m "💄 Blondie: Auto-Update 💅" || exit 0
           git push origin main --force
