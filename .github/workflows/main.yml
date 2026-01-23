@@ -1,6 +1,10 @@
 
 name: Final-Blondie-Auto
 on:
+  push:
+    paths:
+      - 'input/**'
+      - 'worker.py'
   workflow_dispatch:
   schedule:
     - cron: '0 */6 * * *'
