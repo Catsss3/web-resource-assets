@@ -20,10 +20,13 @@ jobs:
         working-directory: ./core-parser-ts
         run: bun index.ts
 
+      - name: Stella Sort
+        run: python3 stella_sort.py
+
       - name: Commit and Push
         run: |
-          git config --global user.name "Blondie-AI"
-          git config --global user.email "blondie@ai.com"
-          git add core-parser-ts/category/*.txt
-          git commit -m "👱‍♀️ Auto-update: TS Configs collected" || exit 0
+          git config --global user.name "Stella-Blondie"
+          git config --global user.email "stella-blondie@ai.com"
+          git add core-parser-ts/category/
+          git commit -m "👱‍♀️ Stella: Collected & Sorted by Categories" || exit 0
           git push
