@@ -1,44 +1,29 @@
 name: UpdateConfigs
-
 on:
-  workflow_dispatch: # اجازه اجرای دستی
   schedule:
     - cron: "0 */6 * * *"
-
+  workflow_dispatch:
 jobs:
   UpdateConfigs:
     runs-on: ubuntu-latest
-
     steps:
-      # Checkout the code
-      - name: Checkout Code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
 
-      # Setup Bun
-      - name: Setup Bun
-        uses: oven-sh/setup-bun@v2
-
-      # Install dependencies
       - name: Install Dependencies
+        working-directory: ./core-parser-ts
         run: bun install
 
-      - name: Remove And Replace New Configs
-        run: |
-         rm -f category/*
-         > BadChannels.txt
+      - name: Run Collector
+        working-directory: ./core-parser-ts
+        run: bun index.ts
 
-      # Run the index.ts file
-      - name: Run index.ts
-        run: bun core-parser-ts/index.ts
-        
-      # Commit changes
-      - name: Commit Changes To UpdateConfigs
+      - name: Commit and Push
         run: |
-          git config --local user.name "Robot-1"
-          git config --local user.email "Robot@example.com"
-          git add -A --ignore-removal category/*
-          git add BadChannels.txt
-          git commit -m "UpdateConfigs"
+          git config --global user.name "Blondie-AI"
+          git config --global user.email "blondie@ai.com"
+          git add core-parser-ts/category/*.txt
+          git commit -m "👱‍♀️ Auto-update: TS Configs collected" || exit 0
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
