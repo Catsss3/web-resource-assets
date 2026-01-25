@@ -3,3 +3,7 @@ vless://c086fb74-f574-4be6-bdc8-08f6a6d1491a@game.pcapps.ir:8095?path=/?ed=2048&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyRTRrOThFcVMyTGNHX1MwMjhaTHFXTXBxSzkzVnhFcA==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
 vless://ffabe614-3bc8-4676-b8d3-c015ba274cc2@trfastgateway.amirconfigpaanelllll.com:2126?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷 TR | 45.144.214.72
 vless://0933bf59-bf78-4d08-986c-c8327b875431@game.pcapps.ir:8095?path=/?ed=2048&security=none&encryption=none&host=skyroom.online&type=ws#🇹🇷 TR | 198.105.123.61
+vless://c086fb74-f574-4be6-bdc8-08f6a6d1491a@game.pcapps.ir:8095?path=/?ed=2048&security=none&encryption=none&host=skyroom.online&type=ws#🇹🇷 TR | 198.105.123.61
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyRTRrOThFcVMyTGNHX1MwMjhaTHFXTXBxSzkzVnhFcA==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
+vless://ffabe614-3bc8-4676-b8d3-c015ba274cc2@trfastgateway.amirconfigpaanelllll.com:2126?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷 TR | 45.144.214.72
+vless://0933bf59-bf78-4d08-986c-c8327b875431@game.pcapps.ir:8095?path=/?ed=2048&security=none&encryption=none&host=skyroom.online&type=ws#🇹🇷 TR | 198.105.123.61
