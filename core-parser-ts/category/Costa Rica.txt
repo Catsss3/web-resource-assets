@@ -1,3 +1,0 @@
-vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=/xxvclws&security=tls&encryption=none&fp=chrome&type=ws&sni=freudd.info#🇨🇷 CR | 2803:f800:50::6ca2:c0dc
-vmess://eyJhZGQiOiIxOTAuOTMuMjQ0LjMiLCJhaWQiOjAsImhvc3QiOiJvcGxnMS56aHVqaWNuMi5jb20iLCJpZCI6IjU2YTIxODhiLTJhYjctNDAyYy1iOWI4LTM0ODQ3ZmRmMDk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii81UU5ST1NSViIsInBvcnQiOjQ0MywicHMiOiLwn4eo8J+HtyBDUiB8IDE5MC45My4yNDQuMyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=/xxvclws&security=tls&encryption=none&fp=chrome&type=ws&sni=freudd.info#🇨🇷 CR | 2803:f800:50::6ca2:c0dc
