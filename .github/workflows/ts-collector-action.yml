@@ -29,7 +29,7 @@ jobs:
 
       # Run the index.ts file
       - name: Run index.ts
-        run: bun index.ts
+        run: bun core-parser-ts/index.ts
         
       # Commit changes
       - name: Commit Changes To UpdateConfigs
