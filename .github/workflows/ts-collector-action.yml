@@ -1,0 +1,44 @@
+name: UpdateConfigs
+
+on:
+  workflow_dispatch: # اجازه اجرای دستی
+  schedule:
+    - cron: "30 4,6,8,10,12,14,16,18,21 * * *"
+
+jobs:
+  UpdateConfigs:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the code
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      # Setup Bun
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+
+      # Install dependencies
+      - name: Install Dependencies
+        run: bun install
+
+      - name: Remove And Replace New Configs
+        run: |
+         rm -f category/*
+         > BadChannels.txt
+
+      # Run the index.ts file
+      - name: Run index.ts
+        run: bun index.ts
+        
+      # Commit changes
+      - name: Commit Changes To UpdateConfigs
+        run: |
+          git config --local user.name "Robot-1"
+          git config --local user.email "Robot@example.com"
+          git add -A --ignore-removal category/*
+          git add BadChannels.txt
+          git commit -m "UpdateConfigs"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
