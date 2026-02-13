@@ -9,21 +9,42 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
+
       - name: Setup Bun
         uses: oven-sh/setup-bun@v2
+
       - name: Install Dependencies
         working-directory: ./core-parser-ts
         run: bun install
+
       - name: Run index.ts
         working-directory: ./core-parser-ts
         run: bun index.ts
+        
+      - name: 📁 Sort and Categorize
+        working-directory: ./core-parser-ts
+        run: |
+          mkdir -p Protocols Country NetworkType
+          # Перемещаем протоколы
+          for f in vless.txt ss.txt trojan.txt vmess.txt wireguard.txt; do
+            [ -f category/$f ] && mv category/$f Protocols/
+          done
+          # Перемещаем типы сетей
+          for f in httpupgrade.txt ws.txt xhttp.txt tcp.txt grpc.txt; do
+            [ -f category/$f ] && mv category/$f NetworkType/
+          done
+          # Всё остальное (страны) - в папку Country
+          mv category/*.txt Country/ 2>/dev/null || echo "No more files in category"
+
       - name: Commit Changes
         run: |
           git config --local user.name "Stella-Blondie"
           git config --local user.email "stella@blondie.ai"
-          git add core-parser-ts/category/*
+          git add core-parser-ts/Protocols/*
+          git add core-parser-ts/Country/*
+          git add core-parser-ts/NetworkType/*
           git add core-parser-ts/BadChannels.txt
-          git commit -m "💅 Stella: Syncing Trophy Configs ✨" || exit 0
+          git commit -m "💅 Stella: Sorted Configs by Protocols & Countries ✨" || exit 0
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
