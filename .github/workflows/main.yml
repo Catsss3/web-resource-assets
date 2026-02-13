@@ -1,34 +1,29 @@
-name: Final-Blondie-Auto
+name: UpdateConfigs
 on:
-  push:
-    paths:
-      - 'input/**'
   workflow_dispatch:
-
+  schedule:
+    - cron: "30 4,8,12,16,20 * * *"
 jobs:
-  build:
+  UpdateConfigs:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-
-      - name: Install dependencies
-        run: pip install --quiet requests
-
-      - name: Run worker
-        env:
-          WORKFLOW_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
-          GITHUB_REPOSITORY: ${{ github.repository }}
-        run: python worker.py
-
-      - name: Commit and Push
+      - name: Checkout Code
+        uses: actions/checkout@v4
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+      - name: Install Dependencies
+        working-directory: ./core-parser-ts
+        run: bun install
+      - name: Run index.ts
+        working-directory: ./core-parser-ts
+        run: bun index.ts
+      - name: Commit Changes
         run: |
-          git config --global user.name "Blondie-Bot"
-          git config --global user.email "blondie@bot.com"
-          git add README.md subscription.txt
-          git commit -m "💄 Blondie: Auto-Update 💅" || exit 0
-          git push origin main --force
+          git config --local user.name "Stella-Blondie"
+          git config --local user.email "stella@blondie.ai"
+          git add core-parser-ts/category/*
+          git add core-parser-ts/BadChannels.txt
+          git commit -m "💅 Stella: Syncing Trophy Configs ✨" || exit 0
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
