@@ -1,1 +1,1 @@
-vless://a4f8e65c-4d09-424d-8a79-f823dc6fca7a@tr.aiserver.pro:23894?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇹🇷 TR | 91.132.51.173
+vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoi8J+HufCfh7cgVFIgfCAxODUuMTA0LjE4OS4zOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
