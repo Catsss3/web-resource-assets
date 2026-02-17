@@ -1,1 +1,1 @@
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#🇨🇷 CR | 2803:f800:50::6ca2:c15b
+vless://ba996b5a-855c-4dc0-9e0d-950215c4f0fd@190.93.245.187:2083?path=/?ed=2560&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=ygfbh374hb.afghanestan.ir#🇨🇷 CR | 190.93.245.187
