@@ -1,5 +1,3 @@
-vless://e5ef4914-5a87-46c1-a62b-0b8dfb3dbcb8@s2.plansv.tech:443?security=reality&encryption=none&pbk=sD1iqg83KrKItMvNo2ZwDO95VEWUtgPOJVC3wkIKOGw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=s2.plansv.tech&sid=c2dff04e461775a6#🇫🇮 FI | 91.205.220.228
-vless://db27262a-4151-4c36-8e5f-2cf7fd387a0f@45.144.53.77:8104/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&sid=9f4ca836ca270ef8#🇫🇮 FI | 45.144.53.77
 vless://896f6d8c-eef2-98ba-899c-a13bbdb7a345@fi1.mahboob.top:2086?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.182.178
 vless://7376dac3-b0dc-1822-adee-beb99c1342d9@fi1.mahboob.top:2086?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.182.178
 vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇫🇮 FI | 94.237.16.129
