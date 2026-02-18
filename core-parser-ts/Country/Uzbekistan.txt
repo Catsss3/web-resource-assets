@@ -1,0 +1,1 @@
+vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@45.134.217.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg&security=reality&sid=d3d1ed07dfdee544&sni=stats.vk-portal.net&type=tcp#🇺🇿 UZ | 45.134.217.212
