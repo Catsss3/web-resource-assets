@@ -1,5 +1,2 @@
-vless://9034468f-b93d-407f-bfc0-87a178ba5c8c@144.31.2.86:443?security=reality&type=tcp&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=cbdfef7f3ede2072&pbk=PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho&encryption=none#🇵🇱 PL | 144.31.2.86
-ss://Y2hhY2hhMjAtcG9seTEzMDU6cHZnejlwcQ@54.36.174.140:443#🇵🇱 PL | 54.36.174.140
-vless://41666e59-9e5c-45fb-b083-fa34a5b62a05@pol2.linkey37.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=edge&sni=www.yandex.ru&pbk=QRvZBf0tz7ij9V7L4MjXkHoMkdDAbwc-UzyDt-PLshU#🇵🇱 PL | 144.31.3.253
 vless://41666e59-9e5c-45fb-b083-fa34a5b62a05@pol2.linkey37.ru:443?security=reality&encryption=none&pbk=QRvZBf0tz7ij9V7L4MjXkHoMkdDAbwc-UzyDt-PLshU&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#🇵🇱 PL | 144.31.3.253
 vless://41666e59-9e5c-45fb-b083-fa34a5b62a05@pol2.linkey37.ru:443?security=reality&encryption=none&pbk=QRvZBf0tz7ij9V7L4MjXkHoMkdDAbwc-UzyDt-PLshU&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#🇵🇱 PL | 144.31.3.253
