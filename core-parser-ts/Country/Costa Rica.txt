@@ -1,1 +1,1 @@
-vless://ba996b5a-855c-4dc0-9e0d-950215c4f0fd@190.93.245.187:2083?path=/?ed=2560&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=ygfbh374hb.afghanestan.ir#🇨🇷 CR | 190.93.245.187
+vless://c805b05e-339d-40e0-8787-432d97a27345@zeus.ns.cloudflare.com:2083?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ServerDL-FrankM2.NetSnap.ir#🇨🇷 CR | 2803:f800:50::6ca2:c1f9
