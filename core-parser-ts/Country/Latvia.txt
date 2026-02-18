@@ -1,1 +1,1 @@
-vless://7177f5c4-f26a-4ab5-820f-62cb6ba649f7@31.170.22.193:47997?security=reality&encryption=none&pbk=cFora2YYa3aZdpWW8vMD9iX97qRKtyLzXv4pWgXoh20&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=ead461#🇱🇻 LV | 31.170.22.193
+vless://e460f6fd-44ca-43dc-b6d5-227551d80bf5@tres.get-tres.ru:62445?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI#🇱🇻 LV | 62.60.234.77
