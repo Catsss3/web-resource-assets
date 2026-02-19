@@ -1,2 +1,1 @@
-vless://fc6fcce4-209f-4180-a605-d45d2fa37dc0@tunnyl.ru:8443?type=tcp&encryption=none&security=reality&pbk=JIEpMViq_q_8PBG4NYKXrSlaGeQMuahbAaa7Qrh3LX0&fp=ios&sni=google.com&sid=38cd424d5ba6441d&spx=/&flow=xtls-rprx-vision#🇪🇸 ES | 185.236.25.242
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
