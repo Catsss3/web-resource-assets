@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNjY4WEhQZWpvU05OdUQ2NkJZenllaGFDcFpleGlGNw@45.12.136.170:443#🇱🇹 LT | 45.12.136.170
+vless://b05d5744-6986-4567-bd34-b3a37766ead4@CP8.PRODNSSPEED10.IR:443?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes":1000000,"xPaddingBytes":"100-1000"}&insecure=0&type=xhttp&allowInsecure=0&sni=SHARAF.followerarzon1.com#🇱🇹 LT | 89.116.250.135
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.138:2096?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳@WangCai2&host=sni.111000.indevs.in#🇱🇹 LT | 89.116.250.138

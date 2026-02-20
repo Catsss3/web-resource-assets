@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206WmhQRjhwUVh5WnF1VE5lWm1TUG42V3RzT0d2MjJSUnlQa0QrclBML3dRVT0@54.151.202.83:38591?note=---Telegram---@NetifyVPN---#🇸🇬 SG | 54.151.202.83
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#🇸🇬 SG | 188.166.220.70
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.8.211.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#🇸🇬 SG | 45.8.211.138
