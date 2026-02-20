@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdXU2WEw2eDdOb2luckNuckNJbW1w@57.128.219.105:5223#🇵🇱 PL | 57.128.219.105
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.30:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=poland.scroogethebest.com&fp=chrome&security=reality&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#🇵🇱 PL | 144.31.3.30
