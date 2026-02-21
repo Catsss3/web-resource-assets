@@ -1,2 +1,1 @@
-vless://8b232fcd-5906-47a3-985a-7b478cd75087@node12.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇸🇪 SE | 77.110.97.7
-vless://cfb6d9ad-7a14-4061-b159-8902fd73bb52@185.146.173.200:2095?security=none&type=ws&host=DigiV2ray---_-_---DIGIq.radioTehran.org.&path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024#🇸🇪 SE | 185.146.173.200
+vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@91.184.240.121:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=secdn13.suio.me#🇸🇪 SE | 91.184.240.121

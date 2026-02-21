@@ -1,1 +1,1 @@
-vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsInYiOiIyIiwicG9ydCI6ODg4OCwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwicHMiOiLwn4ew8J+HtyBLUiB8IDE0Ni41Ni4xMTIuMTEwIn0=
+vless://58877aea-dfdc-44b3-818e-231dbc1e47dc@8.213.137.24:443?security=tls&sni=hk.xujiang.link&type=ws&host=hk.xujiang.link&path=/aa#🇰🇷 KR | 8.213.137.24
