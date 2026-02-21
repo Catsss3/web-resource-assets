@@ -1,2 +1,2 @@
 vless://e86870a5-41f2-4b45-b487-795b8c1a33d4@pol2.linkey37.ru:443?security=reality&encryption=none&pbk=QRvZBf0tz7ij9V7L4MjXkHoMkdDAbwc-UzyDt-PLshU&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#🇵🇱 PL | 144.31.3.253
-vless://e86870a5-41f2-4b45-b487-795b8c1a33d4@pol2.linkey37.ru:443?security=reality&encryption=none&pbk=QRvZBf0tz7ij9V7L4MjXkHoMkdDAbwc-UzyDt-PLshU&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#🇵🇱 PL | 144.31.3.253
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.4.36:443?encryption=none&security=tls&sni=plcdn13.suio.me&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇵🇱 PL | 144.31.4.36
