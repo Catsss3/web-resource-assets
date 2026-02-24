@@ -1,1 +1,1 @@
-vless://7dee9736-d32f-4ac9-f22a-831b81a0b101@190.93.247.155:8880?security=none&type=ws&host=liV2rayb.善良的闪电.monster&path=/@LIGHTNING6#🇨🇷 CR | 190.93.247.155
+vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@jeff.ns.cloudflare.com:443?path=/love&security=tls&encryption=none&insecure=0&host=kqfip.texas-sea.sbs&type=ws&allowInsecure=0&sni=kqfip.texas-sea.sbs#🇨🇷 CR | 2803:f800:50::6ca2:c17c
