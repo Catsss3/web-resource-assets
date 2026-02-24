@@ -1,1 +1,1 @@
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@brenna.ns.cloudflare.com:2096?security=tls&encryption=none&type=ws&host=hetz.x-smm.com&path=/45.76.183.217=49292&sni=hetz.x-smm.com&fp=chrome#🇨🇷 CR | 2803:f800:50::6ca2:c2b0
+vless://7dee9736-d32f-4ac9-f22a-831b81a0b101@190.93.247.155:8880?security=none&type=ws&host=liV2rayb.善良的闪电.monster&path=/@LIGHTNING6#🇨🇷 CR | 190.93.247.155
