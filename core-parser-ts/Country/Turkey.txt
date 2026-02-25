@@ -1,1 +1,1 @@
-vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@86.38.214.52:443?security=tls&sni=fourth.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🇹🇷 TR | 86.38.214.52
+vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoi8J+HufCfh7cgVFIgfCAxODUuMTA0LjE4OS4zOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
