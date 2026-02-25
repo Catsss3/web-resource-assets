@@ -1,1 +1,1 @@
-vless://fcbead98-fef8-4707-bd4f-1278935c9a44@170.64.238.91:39218?security=none&encryption=none&headerType=none&type=tcp#🇦🇺 AU | 170.64.238.91
+vless://ece9a191-decf-4571-b9e4-8855b9bc528e@cloud1.mgolseda.ir:443?encryption=none&type=xhttp&mode=auto&path=/&security=tls&fp=chrome&sni=panel.tron2tron.ir&alpn=h2,http/1.1#🇦🇺 AU | 185.207.199.44
