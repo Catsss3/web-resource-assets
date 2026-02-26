@@ -1,3 +1,4 @@
-vless://10ee4274-4e4c-41c4-afae-bd3cc9221b8e@176.124.220.224:443?security=reality&sni=discord.com&type=grpc&serviceName=@set_v2ray&fp=randomized&pbk=Au6mR8g2KPx04u9kb709QtDUZVgs9VMpHi12RXy5O18&sid=3f8157b6#🇫🇮 FI | 176.124.220.224
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWVcydzlmd2Ryd2oycUM5TnlUQnVCTktRSlV2a0tuQ3A5VXhWbkZXNkxxZVNwaUNjbnpWMWNNb2hCVW5DQ1dCa2prcDgzclY5d1dlWVFRcVVad011WXUxWXlDdDE3dFc@media.mothyleela.cfd:40521#🇫🇮 FI | 107.181.147.235
-vless://978608ba-cac7-461e-af6a-d99d2b53155e@shop.onlineserver2.top:7320?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇫🇮 FI | 37.27.82.68
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.27.243.248:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🎖@alixtso#🇫🇮 FI | 37.27.243.248
+ss://b127d2d2-277a-491e-bf80-2e8688fa85e2@144.31.18.7:443/?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=WuVgBm3QDwobpbSV3Tb036ahk8ygpMQUdPp1xcxQAnY&sid=56b0505f0068cca0&type=tcp&headerType=none#🇫🇮 FI | 144.31.18.7
+vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇫🇮 FI | 94.237.16.129
+vless://978608ba-cac7-461e-af6a-d99d2b53155e@shop.onlineserver2.top:7320?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇫🇮 FI | 157.180.28.17
