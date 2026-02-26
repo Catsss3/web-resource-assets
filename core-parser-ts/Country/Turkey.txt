@@ -1,1 +1,1 @@
-vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoi8J+HufCfh7cgVFIgfCAxODUuMTA0LjE4OS4zOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vless://0518234d-4953-5a33-ab33-ea81f5a884e0@62.3.12.148:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=steampowered.com&fp=chrome&security=reality&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&sid=d1d42381ba35#🇹🇷 TR | 62.3.12.148
