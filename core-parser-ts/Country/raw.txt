@@ -1,1 +1,1 @@
-vless://5791e8c8-42f6-470b-875e-34e223111a51@cloudfront.onhit.xyz:443?encryption=none&security=tls&sni=m.tiktok.com&alpn=h2,http/1.1&fp=chrome&insecure=1&type=raw&headertype=none#🇸🇬 SG | 139.162.47.72
+vless://05a6897b-bdea-46d9-8654-89bceb208504@104.128.134.181:34816?encryption=none&security=none&type=raw&headertype=none#🇳🇱 NL | 104.128.134.181
