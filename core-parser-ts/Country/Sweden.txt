@@ -1,2 +1,1 @@
-vless://a52e8988-5553-4fef-9eec-5d21bac38a5f@node12.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇸🇪 SE | 77.110.97.7
-vless://8507bf33-c99c-4b43-b2f7-ef5577dfd974@185.146.173.87:443?security=tls&sni=tel.shopservices.ir.&type=grpc&alpn=h2,http/1.1#🇸🇪 SE | 185.146.173.87
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.49.159.193:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=chatgpt.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=/&type=tcp&headerType=none#🇸🇪 SE | 13.49.159.193

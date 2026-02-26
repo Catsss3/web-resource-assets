@@ -1,1 +1,1 @@
-vless://0518234d-4953-5a33-ab33-ea81f5a884e0@62.3.12.148:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=steampowered.com&fp=chrome&security=reality&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&sid=d1d42381ba35#🇹🇷 TR | 62.3.12.148
+vless://50acf092-b1ad-44d0-8121-9335e19b31d3@94.183.236.250:3310?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 94.183.236.250
