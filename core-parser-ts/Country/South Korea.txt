@@ -1,1 +1,1 @@
-vless://58877aea-dfdc-44b3-818e-231dbc1e47dc@8.213.137.24:443?security=tls&sni=hk.xujiang.link&type=ws&host=hk.xujiang.link&path=/aa#🇰🇷 KR | 8.213.137.24
+vless://be385a85-92af-41cc-cb40-db0deac2e5f8@165.154.230.13:30001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=addons.mozilla.org&alpn=channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome&security=reality&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&sid=#🇰🇷 KR | 165.154.230.13
