@@ -1,2 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇨🇷 CR | 190.93.245.94
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?path=/&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇨🇷 CR | 190.93.244.138
+vless://VPNCUSTOMIZE@190.93.247.155:8080?path=/?ed=2048&;security=none&;encryption=none&;host=VPNCUSTOMIZE-V2ray.列列男事的事列上赛男78.tech&;type=ws#🇨🇷 CR | 190.93.247.155
