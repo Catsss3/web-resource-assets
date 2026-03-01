@@ -1,4 +1,3 @@
-vless://37ce2f1a-7c49-45bf-aab3-821cb86e7849@germany4.modem99.ir:2702?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇹🇷 TR | 94.183.237.6
-vless://37ce2f1a-7c49-45bf-aab3-821cb86e7849@germany4.modem99.ir:2702?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇹🇷 TR | 94.183.237.6
-vless://e5b3365b-50f7-4479-b25a-5f314ce871c2@shop.khalijservers1.top:7432?security=none&encryption=none&headerType=http&type=tcp#🇹🇷 TR | 94.183.241.166
-vless://ed9cbe67-25c5-4d41-a29d-891dceda33ff@shop.khalijservers1.top:7432?security=none&spx=@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt&encryption=none&headerType=http&type=tcp#🇹🇷 TR | 94.183.241.164
+vless://e5b3365b-50f7-4479-b25a-5f314ce871c2@shop.khalijservers1.top:7432?security=none&encryption=none&headerType=http&type=tcp#🇹🇷 TR | 94.183.241.163
+vless://ed9cbe67-25c5-4d41-a29d-891dceda33ff@shop.khalijservers1.top:7432?security=none&spx=@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt----@Hiddify_Nexttt&encryption=none&headerType=http&type=tcp#🇹🇷 TR | 94.183.241.160
+vless://e5b3365b-50f7-4479-b25a-5f314ce871c2@shop.khalijservers1.top:7432?security=none&encryption=none&headerType=http&type=tcp#🇹🇷 TR | 94.183.241.163

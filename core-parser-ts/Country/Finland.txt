@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYXlTUnpUMlFWUndTMWdQUm5tZEEtOERKU0FYTFlCQg==@138.124.118.94:8080#🇫🇮 FI | 138.124.118.94
-vless://978608ba-cac7-461e-af6a-d99d2b53155e@shop.onlineserver2.top:7320?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇫🇮 FI | 37.27.91.234
 vless://e564e363-ba3d-42e3-9da6-acf39344c63f@fn.fastspeeds.ir:443?security=none&encryption=none&host=PULAVPN.net&headerType=none&type=tcp#🇫🇮 FI | 31.56.205.158
