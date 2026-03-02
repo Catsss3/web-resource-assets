@@ -1,2 +1,2 @@
-vless://d68d1343-6a39-4770-9f3f-7c73c60a320c@node12.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇸🇪 SE | 77.110.97.7
-vless://208fba39-203e-4bef-8a29-be88e772c3e8@185.146.173.90:80?security=none&type=ws&host=VipV2rayGod.azaronline.Org.&path=/?ed=1048#🇸🇪 SE | 185.146.173.90
+vless://Telegram🇨🇳 @WangCai2@79.141.174.235:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#🇸🇪 SE | 79.141.174.235
+vless://Telegram🇨🇳 @WangCai2@70.34.218.89:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#🇸🇪 SE | 70.34.218.89
