@@ -1,1 +1,1 @@
-vless://ece9a191-decf-4571-b9e4-8855b9bc528e@cloud1.mgolseda.ir:443?encryption=none&type=xhttp&mode=auto&path=/&security=tls&fp=chrome&sni=panel.tron2tron.ir&alpn=h2,http/1.1#🇦🇺 AU | 185.207.199.44
+ss://YWVzLTI1Ni1nY206U0w0dnpjdmhCSGhUV2l2RA@154.26.155.172:80#🇦🇺 AU | 154.26.155.172
