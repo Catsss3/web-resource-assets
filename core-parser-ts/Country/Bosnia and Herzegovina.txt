@@ -1,1 +1,2 @@
-vless://932fbc77-4dff-4607-8b69-50d6580331a3@45.15.178.118:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ign.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#🇧🇦 BA | 45.15.178.118
+vless://53576318-dafd-4428-9ec3-d635a6521631@45.15.178.109:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇧🇦 BA | 45.15.178.109
+vless://53576318-dafd-4428-9ec3-d635a6521631@45.15.178.113:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇧🇦 BA | 45.15.178.113
