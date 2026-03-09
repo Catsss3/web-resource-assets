@@ -1,1 +1,1 @@
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#🇦🇹 AT | 38.180.197.41
+vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@152.53.18.126:443?encryption=none&fp=chrome&pbk=HPZgMgE84lwWqVlbLyyGXRMHPG7BxS1TFkbNsWz2nk8&security=reality&sid=d46fa6&sni=www.apple.com&type=tcp#🇦🇹 AT | 152.53.18.126
