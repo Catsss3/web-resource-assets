@@ -1,1 +1,1 @@
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#🇪🇪 EE | 38.180.216.114
+vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@est.top.subtrust.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pOdL1l8cGGg7qnOPAbDcAIVOgA7O8f75XevxeYyaYCg&security=reality&sid=cd11af&sni=www.apple.com&type=tcp#🇪🇪 EE | 93.123.39.225
