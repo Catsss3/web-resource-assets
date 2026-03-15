@@ -1,1 +1,1 @@
-vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@est.top.subtrust.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pOdL1l8cGGg7qnOPAbDcAIVOgA7O8f75XevxeYyaYCg&security=reality&sid=cd11af&sni=www.apple.com&type=tcp#🇪🇪 EE | 93.123.39.225
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.36.141.121:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.fgfw.ccwu.cc&type=ws&headerType=none&host=snippet.fgfw.ccwu.cc&path=/danfeng#🇪🇪 EE | 185.36.141.121
