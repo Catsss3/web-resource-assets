@@ -1,1 +1,2 @@
-vless://553faafb-9d5e-4986-a2ab-450ad9fc6a3f@90909.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#🇨🇭 CH | 83.228.220.54
+vless://eaadb4d9-8273-41bb-89f6-0f0504736b57@213.176.18.99:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇨🇭 CH | 213.176.18.99
+vless://553faafb-9d5e-4986-a2ab-450ad9fc6a3f@90909.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#🇨🇭 CH | 83.228.219.205
