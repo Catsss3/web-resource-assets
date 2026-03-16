@@ -1,1 +1,1 @@
-vless://6e1d4809-78a9-45b3-804f-1b1b0aab8d92@tamad2.tarikhtamadonha.ir:443?mode=auto&path=/digikala.com/login/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=panel.copmacil.ir#🇵🇱 PL | 45.144.51.246
+vless://1d8120a6-15de-4001-92ad-eeaf8ba63699@pl.riotvpn.eu:80?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=obhod.riotvpn.eu#🇵🇱 PL | 144.31.1.153
