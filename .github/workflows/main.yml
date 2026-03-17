@@ -2,10 +2,15 @@ name: UpdateConfigs
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 4,8,12,16,20 * * *"
+    # 🌅 Запуск один раз в день в 06:30 утра (Раз в 24 часа)
+    # Экономим ~1200 минут в месяц по сравнению со старым графиком! ✨
+    - cron: "30 6 * * *"
+
 jobs:
   UpdateConfigs:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # 👈 Даем права боту на пуш в репозиторий
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
@@ -44,7 +49,8 @@ jobs:
           git add core-parser-ts/Country/*
           git add core-parser-ts/NetworkType/*
           git add core-parser-ts/BadChannels.txt
-          git commit -m "💅 Stella: Sorted Configs by Protocols & Countries ✨" || exit 0
-          git push
+          # exit 0 гарантирует, что если новых конфигов нет, билд не покраснеет
+          git commit -m "🎯 Stella: Daily Config Sync & Global Sort (24h Cycle) ✨" || exit 0
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
