@@ -1,1 +1,1 @@
-vless://70ea6634-c619-4cc5-b0ba-547544887eaf@155.212.229.166:8083?type=tcp&sni=www.apple.com&fp=chrome&pbk=SziXMkSTuvedEFS4DE-WY0a4Hb87Y22VW0TgE9IPDjA&sid=425ba80cd1a821a8&flow=xtls-rprx-vision&allowInsecure=1#🇱🇻 LV | 155.212.229.166
+vless://14818654-7689-453a-9a1f-4c72f89782d5@94.131.104.229:2040/?type=tcp&encryption=none&flow=&sni=tradingview.com&fp=chrome&security=reality&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63#🇱🇻 LV | 94.131.104.229
