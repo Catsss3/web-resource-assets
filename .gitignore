@@ -1,4 +1,2 @@
 node_modules/
-*.log
-.env
-dist/
+core-parser-ts/node_modules/
