@@ -20,7 +20,7 @@ jobs:
         working-directory: ./core-parser-ts
         run: bun install
 
-      - name: Run index.ts
+      - name: Run index.ts (Сборщик)
         working-directory: ./core-parser-ts
         run: bun index.ts
 
@@ -29,8 +29,9 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install Python Deps
-        run: pip install -r ./network-validator/reqs.txt
+      - name: Install Python Requests 📦
+        # Вот эта строчка спасет нас от ошибки!
+        run: pip install requests python-dotenv
 
       - name: Run Stealth Validator
         run: python ./network-validator/checker_v3.py --input ./core-parser-ts/Protocols/vless.txt --output ./core-parser-ts/white-list_available.txt
@@ -40,7 +41,7 @@ jobs:
           git config --local user.name "Stella-Blondie"
           git config --local user.email "stella@blondie.ai"
           git add .
-          git commit -m "🎯 Stella: Global Sync + Validator Integration ✨" || exit 0
+          git commit -m "🎯 Stella: Fixed ModuleNotFoundError & Updated Deps ✨" || exit 0
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
