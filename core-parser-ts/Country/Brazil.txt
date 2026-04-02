@@ -1,1 +1,0 @@
-vless://f0808f54-7668-4f35-a36f-f425b30c6149@66.234.149.100:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=57f5917841a2178f#🇧🇷 BR | 66.234.149.100

@@ -1,1 +1,0 @@
-vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.84:443?security=tls&sni=third.pinocchio1.ir&type=grpc&fp=firefox&alpn=http/1.1#🇵🇪 PE | 154.219.5.84
