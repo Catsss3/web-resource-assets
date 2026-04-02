@@ -21,7 +21,7 @@ function decodeHtmlEntities(str: string): string {
 
 function tryDecodeBase64(str: string): string {
   try {
-    const cleanStr = str.replace(/\\s/g, '');
+    const cleanStr = str.replace(/\s/g, '');
     return Buffer.from(cleanStr, 'base64').toString('utf-8');
   } catch {
     return "";
@@ -34,7 +34,7 @@ async function fetchHtml(url: string): Promise<void> {
     if (!response.ok) return;
     const html: string = await response.text();
     
-    const regex = /(vless|hysteria2|hy2|tuic):\\/\\/[^\\s<>]+/gm;
+    const regex = /(vless|hysteria2|hy2|tuic):\/\/[^\s<>]+/gm;
     let matches = html.match(regex) || [];
 
     const b64Regex = /[A-Za-z0-9+/]{40,}/gm;
