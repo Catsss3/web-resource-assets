@@ -6,9 +6,7 @@ type Result = Record<"config" | "country" | "typeConfig", string>;
 type FinalResult = Record<"protocol", string> & Result;
 
 interface IPApiResponse {
-  country: string;
-  query: string;
-  countryCode: string;
+  country: string; query: string; countryCode: string;
 }
 
 const countGetConfigOfEveryChannel = 2;
@@ -25,7 +23,8 @@ async function fetchHtml(url: string): Promise<void> {
     const response = await fetch(url, { redirect: "manual" });
     if (!response.ok) return;
     const html: string = await response.text();
-    const regex = /(vless|vmess|wireguard|trojan|ss|hysteria2|tuic):\/\/[^\s<>]+/gm;
+    // ТОЛЬКО ЖИВЫЕ ПРОТОКОЛЫ
+    const regex = /(vless|hysteria2|tuic):\/\/[^\s<>]+/gm;
     const matches = html.match(regex);
     if (matches) {
       const lastMessages = matches.slice(-countGetConfigOfEveryChannel);
@@ -41,19 +40,12 @@ async function configChanger(urlString: string): Promise<FinalResult> {
   const protocol = urlString.split("://")[0];
   const hostMatch = urlString.match(/@?([^:/#?]+)/);
   const hostname = hostMatch ? hostMatch[1] : "1.1.1.1";
-
   const api = await checkIP(hostname);
   const baseLink = urlString.split("#")[0];
   const newName = `${api.flag} ${api.countryCode} | ${protocol.toUpperCase()}`;
-  
   let typeConfig = protocol;
   if (baseLink.includes("security=reality")) typeConfig = "reality";
   else if (protocol === "hysteria2" || protocol === "tuic") typeConfig = "quic";
-  else {
-    try { const { searchParams } = new URL(baseLink); typeConfig = searchParams.get("type") ?? protocol; } 
-    catch { typeConfig = protocol; }
-  }
-
   return { protocol, config: `${baseLink}#${newName}`, country: api.country, typeConfig };
 }
 
