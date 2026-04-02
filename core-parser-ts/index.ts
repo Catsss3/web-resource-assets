@@ -60,10 +60,10 @@ async function checkIP(ipaddress: string) {
 async function Grouping(urls: string): Promise<void> {
   const result = await configChanger(urls);
   if (result) {
-    await appendFile(`./category/${result.protocol}.txt`, result.config + "\n");
-    await appendFile(`./category/${result.country}.txt`, result.config + "\n");
+    await appendFile(`./category/protocols/${result.protocol}.txt`, result.config + "\n");
+    await appendFile(`./category/countries/${result.country}.txt`, result.config + "\n");
     if (result.typeConfig && result.typeConfig !== result.protocol) {
-      await appendFile(`./category/${result.typeConfig}.txt`, result.config + "\n");
+      await appendFile(`./category/networks/${result.typeConfig}.txt`, result.config + "\n");
     }
   }
 }
