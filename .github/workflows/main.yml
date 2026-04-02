@@ -24,27 +24,19 @@ jobs:
         working-directory: ./core-parser-ts
         run: bun index.ts
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Install Python Requests 📦
-        run: pip install requests python-dotenv
-
-      - name: Run Stealth Validator
-        run: python ./network-validator/checker_v3.py --input ./core-parser-ts/Protocols/vless.txt --output ./core-parser-ts/white-list_available.txt
-
       - name: Commit Changes
         run: |
           git config --local user.name "Stella-Blondie"
           git config --local user.email "stella@blondie.ai"
-          # ТУТ САМОЕ ВАЖНОЕ: добавляем только нужное!
-          git add .gitignore
+          
+          # Добавляем ВСЕ новые папки и файлы, которые нагенерил скрипт
           git add core-parser-ts/Protocols/*.txt
+          git add core-parser-ts/Country/*.txt
+          git add core-parser-ts/NetworkType/*.txt
+          git add core-parser-ts/category/*.txt
           git add core-parser-ts/white-list_available.txt
-          git add .github/workflows/main.yml
-          git commit -m "🎯 Stella: Cleaned repo & Optimized sync (No bloat!) ✨" || exit 0
+          
+          git commit -m "🚀 Stella: Syncing ALL protocols (Reality, Hys2, TUIC) ✨" || exit 0
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
