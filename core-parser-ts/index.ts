@@ -1,9 +1,5 @@
-
 import { appendFile } from "node:fs/promises";
 import channles from "./telegram_channels.json" assert { type: "json" };
-
-type Result = Record<"config" | "country" | "typeConfig", string>;
-type FinalResult = Record<"protocol", string> & Result;
 
 interface IPApiResponse {
   country: string; query: string; countryCode: string;
@@ -17,7 +13,6 @@ const countryFlagMap: { [key: string]: string } = {
 function decodeHtmlEntities(str: string): string {
   return decodeURIComponent(str).replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#039;/g, "'");
 }
-
 
 function tryDecodeBase64(str: string): string {
   try {
@@ -33,19 +28,15 @@ async function fetchHtml(url: string): Promise<void> {
     const response = await fetch(url, { redirect: "manual" });
     if (!response.ok) return;
     const html: string = await response.text();
-    
     const regex = /(vless|hysteria2|hy2|tuic):\/\/[^\s<>]+/gm;
     let matches = html.match(regex) || [];
-
     const b64Regex = /[A-Za-z0-9+/]{40,}/gm;
     const b64Matches = html.match(b64Regex) || [];
-
     for (const b64 of b64Matches) {
       const decoded = tryDecodeBase64(b64);
       const b64Links = decoded.match(regex);
       if (b64Links) matches = matches.concat(b64Links);
     }
-
     if (matches.length > 0) {
       const lastMessages = matches.slice(-countGetConfigOfEveryChannel);
       for (const element of lastMessages) {
@@ -55,7 +46,8 @@ async function fetchHtml(url: string): Promise<void> {
     }
   } catch (e) {}
 }
-\nasync function configChanger(urlString: string): Promise<FinalResult> {
+
+async function configChanger(urlString: string) {
   const protocol = urlString.split("://")[0];
   const hostMatch = urlString.match(/@?([^:/#?]+)/);
   const hostname = hostMatch ? hostMatch[1] : "1.1.1.1";
@@ -64,7 +56,7 @@ async function fetchHtml(url: string): Promise<void> {
   const newName = `${api.flag} ${api.countryCode} | ${protocol.toUpperCase()}`;
   let typeConfig = protocol;
   if (baseLink.includes("security=reality")) typeConfig = "reality";
-  else if (protocol === "hysteria2" || protocol === "tuic") typeConfig = "quic";
+  else if (protocol === "hysteria2" || protocol === "tuic" || protocol === "hy2") typeConfig = "quic";
   return { protocol, config: `${baseLink}#${newName}`, country: api.country, typeConfig };
 }
 
