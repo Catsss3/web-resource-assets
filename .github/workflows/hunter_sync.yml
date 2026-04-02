@@ -1,0 +1,23 @@
+name: DiscoverNewChannels
+on:
+  schedule:
+    - cron: '0 0 */2 * *'
+  workflow_dispatch:
+
+jobs:
+  hunt:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v1
+      - name: Install
+        run: cd core-parser-ts && bun install
+      - name: Run Hunter
+        run: cd core-parser-ts && bun hunter.ts
+      - name: Push
+        run: |
+          git config --global user.name "Stella-Blondie"
+          git config --global user.email "stella@blondie.ai"
+          git add core-parser-ts/telegram_channels.json
+          git commit -m "🕵️‍♀️ Stella Hunter: Auto-discovered new sources ✨" || exit 0
+          git push
