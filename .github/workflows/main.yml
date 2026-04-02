@@ -30,9 +30,9 @@ jobs:
           git config --local user.email "stella@blondie.ai"
           
           # Добавляем ВСЕ новые папки и файлы, которые нагенерил скрипт
-          git add core-parser-ts/Protocols/*.txt
-          git add core-parser-ts/Country/*.txt
-          git add core-parser-ts/NetworkType/*.txt
+          git add core-parser-ts/category/protocols/*.txt
+          git add core-parser-ts/category/countries/*.txt
+          git add core-parser-ts/category/networks/*.txt
           git add core-parser-ts/category/*.txt
           git add core-parser-ts/white-list_available.txt
           
