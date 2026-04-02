@@ -18,15 +18,35 @@ function decodeHtmlEntities(str: string): string {
   return decodeURIComponent(str).replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#039;/g, "'");
 }
 
+
+function tryDecodeBase64(str: string): string {
+  try {
+    const cleanStr = str.replace(/\\s/g, '');
+    return Buffer.from(cleanStr, 'base64').toString('utf-8');
+  } catch {
+    return "";
+  }
+}
+
 async function fetchHtml(url: string): Promise<void> {
   try {
     const response = await fetch(url, { redirect: "manual" });
     if (!response.ok) return;
     const html: string = await response.text();
-    // ТОЛЬКО ЖИВЫЕ ПРОТОКОЛЫ
-    const regex = /(vless|hysteria2|hy2|tuic):\/\/[^\s<>]+/gm;
-    const matches = html.match(regex);
-    if (matches) {
+    
+    const regex = /(vless|hysteria2|hy2|tuic):\\/\\/[^\\s<>]+/gm;
+    let matches = html.match(regex) || [];
+
+    const b64Regex = /[A-Za-z0-9+/]{40,}/gm;
+    const b64Matches = html.match(b64Regex) || [];
+
+    for (const b64 of b64Matches) {
+      const decoded = tryDecodeBase64(b64);
+      const b64Links = decoded.match(regex);
+      if (b64Links) matches = matches.concat(b64Links);
+    }
+
+    if (matches.length > 0) {
       const lastMessages = matches.slice(-countGetConfigOfEveryChannel);
       for (const element of lastMessages) {
         const decodeHtml = decodeHtmlEntities(element);
@@ -35,8 +55,7 @@ async function fetchHtml(url: string): Promise<void> {
     }
   } catch (e) {}
 }
-
-async function configChanger(urlString: string): Promise<FinalResult> {
+\nasync function configChanger(urlString: string): Promise<FinalResult> {
   const protocol = urlString.split("://")[0];
   const hostMatch = urlString.match(/@?([^:/#?]+)/);
   const hostname = hostMatch ? hostMatch[1] : "1.1.1.1";
