@@ -24,7 +24,7 @@ async function fetchHtml(url: string): Promise<void> {
     if (!response.ok) return;
     const html: string = await response.text();
     // ТОЛЬКО ЖИВЫЕ ПРОТОКОЛЫ
-    const regex = /(vless|hysteria2|tuic):\/\/[^\s<>]+/gm;
+    const regex = /(vless|hysteria2|hy2|tuic):\/\/[^\s<>]+/gm;
     const matches = html.match(regex);
     if (matches) {
       const lastMessages = matches.slice(-countGetConfigOfEveryChannel);
