@@ -226,3 +226,4 @@ vless://8b1af25a-e873-4915-bc56-3ad741e82f09@193.233.201.13:443?encryption=none&
 vless://8b1af25a-e873-4915-bc56-3ad741e82f09@45.140.205.215:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#🏴‍☠️ UN | VLESS
 vless://freedom-runet-49@balancer.colorbox.space:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=rvES-av4STCQYkhl9LwpjMeqxFhz-yHwzFDU8u61El8&sid=b8f356b22266c473&sni=balancer.colorbox.space#🏴‍☠️ UN | VLESS
 vless://ae8ddd8e-00af-48e5-bd57-05074a1bbffb@144.31.157.163:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sid=0123456789abcdef&sni=www.deepl.com&type=tcp#🏴‍☠️ UN | VLESS
+vless://8b1af25a-e873-4915-bc56-3ad741e82f09@130.49.189.40:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#🏴‍☠️ UN | VLESS
