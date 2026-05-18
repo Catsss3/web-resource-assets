@@ -15,3 +15,5 @@ hy2://DBUklcvOyH@45.81.19.251:443?insecure=1&sni=`#🏴‍☠️ UN | HY2
 hysteria2://Kz0JGcGICb@srm.kishonline.online:443?security=tls&obfs=salamander&obfs-password=kish-data-center&insecure=0&sni=srm.kishonline.online#🏴‍☠️ UN | HYSTERIA2
 hysteria2://Kz0JGcGICb@srm.kishonline.online:443?obfs=salamander&obfs-password=kish-data-center&sni=srm.kishonline.online&insecure=0#🏴‍☠️ UN | HYSTERIA2
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.250.218.42:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🏴‍☠️ UN | HY2
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@202.146.222.30:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🏴‍☠️ UN | HY2
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@43.205.210.56:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🏴‍☠️ UN | HY2
