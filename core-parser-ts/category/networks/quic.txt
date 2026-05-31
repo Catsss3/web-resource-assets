@@ -19,3 +19,8 @@ hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@202.146.222.30:443/?insecure=1&sni=https://t.me/W
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@43.205.210.56:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🏴‍☠️ UN | HY2
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@160.187.100.109:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🏴‍☠️ UN | HY2
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz&insecure=0#🏴‍☠️ UN | HYSTERIA2
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?security=tls&insecure=1&sni=hy2.123266.xyz#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Masir_Sefid@18.159.104.97:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Masir_Sefid@18.159.104.97:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Masir_Sefid@18.159.104.97:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Masir_Sefid@18.159.104.97:54040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🏴‍☠️ UN | HYSTERIA2

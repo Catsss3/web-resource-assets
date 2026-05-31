@@ -9,3 +9,8 @@ hysteria2://Fa3JN012u2@x.kishonline.online:443?security=tls&obfs=salamander&obfs
 hysteria2://Kz0JGcGICb@srm.kishonline.online:443?security=tls&obfs=salamander&obfs-password=kish-data-center&insecure=0&sni=srm.kishonline.online#🏴‍☠️ UN | HYSTERIA2
 hysteria2://Kz0JGcGICb@srm.kishonline.online:443?obfs=salamander&obfs-password=kish-data-center&sni=srm.kishonline.online&insecure=0#🏴‍☠️ UN | HYSTERIA2
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz&insecure=0#🏴‍☠️ UN | HYSTERIA2
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?security=tls&insecure=1&sni=hy2.123266.xyz#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Masir_Sefid@18.159.104.97:4040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Masir_Sefid@18.159.104.97:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Masir_Sefid@18.159.104.97:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Masir_Sefid@18.159.104.97:54040?sni=qus.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=Masir_Sefid#🏴‍☠️ UN | HYSTERIA2
