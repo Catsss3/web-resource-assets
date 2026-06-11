@@ -36,3 +36,5 @@ hysteria2://Masir_Sefid@206.189.58.246:1040?security=tls&obfs=salamander&obfs-pa
 hysteria2://Masir_Sefid@206.189.58.246:8443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#🏴‍☠️ UN | HYSTERIA2
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?security=tls&insecure=1&sni=de2.xiaoliyu.cyou#🏴‍☠️ UN | HYSTERIA2
 hysteria2://Masir_Sefid@206.189.58.246:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Masir_Sefid@84.234.29.238:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&mport=443-20000,40000-50000&sni=Api.masir-sefid-1.my#🏴‍☠️ UN | HYSTERIA2
+hysteria2://vlxjqoiauby22dvb@n.acp.us.ci:443?security=tls&obfs=salamander&obfs-password=@arshiacomplus&insecure=0&sni=n.acp.us.ci#🏴‍☠️ UN | HYSTERIA2
