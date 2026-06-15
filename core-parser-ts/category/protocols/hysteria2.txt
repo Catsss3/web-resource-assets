@@ -39,3 +39,4 @@ hysteria2://Masir_Sefid@206.189.58.246:54040?security=tls&obfs=salamander&obfs-p
 hysteria2://Masir_Sefid@84.234.29.238:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&mport=443-20000,40000-50000&sni=Api.masir-sefid-1.my#🏴‍☠️ UN | HYSTERIA2
 hysteria2://vlxjqoiauby22dvb@n.acp.us.ci:443?security=tls&obfs=salamander&obfs-password=@arshiacomplus&insecure=0&sni=n.acp.us.ci#🏴‍☠️ UN | HYSTERIA2
 hysteria2://vlxjqoiauby22dvb@185.171.202.243:443?security=tls&obfs=salamander&obfs-password=@arshiacomplus&insecure=0&sni=n.acp.us.ci#🏴‍☠️ UN | HYSTERIA2
+hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?sni=se.esimpson.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=EsimObfs_9mK2x7#🏴‍☠️ UN | HYSTERIA2
