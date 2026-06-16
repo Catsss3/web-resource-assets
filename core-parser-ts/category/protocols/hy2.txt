@@ -10,3 +10,5 @@ hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@43.205.210.56:443/?insecure=1&sni=https://t.me/Wa
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@160.187.100.109:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🏴‍☠️ UN | HY2
 hy2://Masir_Sefid@18.194.238.82:444/?sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#🏴‍☠️ UN | HY2
 hy2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#🏴‍☠️ UN | HY2
+hy2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=1&sni=hy2.aspidnet.xyz#🏴‍☠️ UN | HY2
+hy2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&sni=tunel1.washing.help#🏴‍☠️ UN | HY2

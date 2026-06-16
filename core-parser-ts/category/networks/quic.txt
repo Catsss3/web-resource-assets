@@ -52,3 +52,5 @@ hysteria2://vlxjqoiauby22dvb@n.acp.us.ci:443?security=tls&obfs=salamander&obfs-p
 hysteria2://vlxjqoiauby22dvb@185.171.202.243:443?security=tls&obfs=salamander&obfs-password=@arshiacomplus&insecure=0&sni=n.acp.us.ci#🏴‍☠️ UN | HYSTERIA2
 hy2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#🏴‍☠️ UN | HY2
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?sni=se.esimpson.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=EsimObfs_9mK2x7#🏴‍☠️ UN | HYSTERIA2
+hy2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=1&sni=hy2.aspidnet.xyz#🏴‍☠️ UN | HY2
+hy2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&sni=tunel1.washing.help#🏴‍☠️ UN | HY2
