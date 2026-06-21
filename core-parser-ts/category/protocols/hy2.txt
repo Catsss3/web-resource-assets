@@ -15,3 +15,4 @@ hy2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?obfs=salamander&obfs-passwor
 hy2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🏴‍☠️ UN | HY2
 hy2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443/?sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#🏴‍☠️ UN | HY2
 hy2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443/?insecure=1&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🏴‍☠️ UN | HY2
+hy2://d1db0080-669a-4357-ab9f-ab16719ed736@192.9.165.40:51000?insecure=1&sni=cn.cremedelamer.com#🏴‍☠️ UN | HY2
