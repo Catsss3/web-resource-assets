@@ -24,3 +24,5 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.212.100.129:443/?insecure=1&sni=https://t.me/W
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.212.34.63:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🏴‍☠️ UN | HY2
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.220.246.198:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🏴‍☠️ UN | HY2
 hy2://9947b194-85ed-4128-965c-a1007ec88bf0@[2a0b:4142:a86::2]:28443/?insecure=1&sni=#🏴‍☠️ UN | HY2
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.34.49.205:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🏴‍☠️ UN | HY2
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@56.10.11.159:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🏴‍☠️ UN | HY2
