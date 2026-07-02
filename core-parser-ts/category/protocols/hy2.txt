@@ -29,3 +29,4 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@56.10.11.159:443/?insecure=1&sni=https://t.me/Wan
 hy2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443/?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🏴‍☠️ UN | HY2
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@47.128.242.210:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🏴‍☠️ UN | HY2
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.229.94.221:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🏴‍☠️ UN | HY2
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@47.129.160.62:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🏴‍☠️ UN | HY2
