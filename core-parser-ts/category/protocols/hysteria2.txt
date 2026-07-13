@@ -49,3 +49,6 @@ hysteria2://b1be3c3c-5cb7-4b5b-8dbc-a407eb0d63b7@[2a0b:4142:a86::2]:28443/?insec
 hysteria2://afa31ea7-0b97-4bc9-b043-daaeca4aef70@[2a0b:4142:a86::2]:28443/?insecure=1&sni=#🏴‍☠️ UN | HYSTERIA2
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&insecure=0&sni=tunel1.washing.help#🏴‍☠️ UN | HYSTERIA2
 hysteria2://eltgrek81o6w5cd4@nrealistic.nn-foto.ru:1935/?obfs=salamander&obfs-password=lhfl2z9mjngb7csh&sni=nrealistic.nn-foto.ru#🏴‍☠️ UN | HYSTERIA2
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://JxCHTtg2gX@91.107.152.188:40460?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52013?security=tls&obfs=salamander&obfs-password=cukfjxud1ebjuuzs&insecure=0&sni=assets.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
