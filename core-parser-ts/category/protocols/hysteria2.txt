@@ -56,3 +56,4 @@ hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52002?security=tls&obfs=s
 hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?security=tls&obfs=salamander&obfs-password=ngljeqgna3hmfr2s&insecure=0&sni=qg.easyiran.org#🏴‍☠️ UN | HYSTERIA2
 hysteria2://p0IbtS8wCZ@91.107.174.32:25810?security=tls&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn&insecure=1&pinSHA256=acc6131ab42c77173ab179a5ac5707ececd64387bfd8b34c531278b561485d27&sni=www.amd.com#🏴‍☠️ UN | HYSTERIA2
 hysteria2://o3774es6cfv74kaf@social.klipp.su:443/?obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&sni=social.klipp.su#🏴‍☠️ UN | HYSTERIA2
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=1&sni=hy2.aspidnet.xyz#🏴‍☠️ UN | HYSTERIA2
