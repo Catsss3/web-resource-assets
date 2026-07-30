@@ -61,3 +61,9 @@ hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.213:8443?sni=mercede
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@144.31.224.81:443/?sni=nland1.noesissite.ru#🏴‍☠️ UN | HYSTERIA2
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa1.api3-max.ru:443?allowInsecure=0&insecure=0&security=tls&sni=wopa1.api3-max.ru#🏴‍☠️ UN | HYSTERIA2
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@150.241.102.127:443?security=tls&sni=usp.noesissite.ru&path=/#🏴‍☠️ UN | HYSTERIA2
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wwopa2.api3-max.ru:443?sni=wwopa2.api3-max.ru&insecure=0#🏴‍☠️ UN | HYSTERIA2
+hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@usp.noesissite.ru:443?sni=usp.noesissite.ru&insecure=0#🏴‍☠️ UN | HYSTERIA2
+hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#🏴‍☠️ UN | HYSTERIA2
