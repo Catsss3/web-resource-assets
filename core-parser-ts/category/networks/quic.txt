@@ -104,3 +104,8 @@ hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wwopa2.api3-max.ru:443?sni=wwop
 hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@usp.noesissite.ru:443?sni=usp.noesissite.ru&insecure=0#🏴‍☠️ UN | HYSTERIA2
 hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.117:8443/?sni=grape-zet-ro-turbo.bumbleshrimp.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@92.118.205.238:8443?insecure=1&sni=grape-power-pl.ddnsguru.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://0I_Vi934gK9_Mq3240Xs_Bv2_kUi8Q34183g9hj_Bv6_7a@213.202.219.29:8443?sni=grape-sos-de.roxa.org&nonce=3PZqH4qG#🏴‍☠️ UN | HYSTERIA2
+hy2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@5.183.102.113:443/?mport=50000-53000&insecure=1&sni=iosapps.itunes.apple.com#🏴‍☠️ UN | HY2
+hy2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@82.47.32.31:443/?mport=50000-53000&insecure=1&sni=iosapps.itunes.apple.com#🏴‍☠️ UN | HY2
