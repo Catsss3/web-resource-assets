@@ -70,3 +70,6 @@ hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#🏴‍☠️
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.117:8443/?sni=grape-zet-ro-turbo.bumbleshrimp.com#🏴‍☠️ UN | HYSTERIA2
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@92.118.205.238:8443?insecure=1&sni=grape-power-pl.ddnsguru.com#🏴‍☠️ UN | HYSTERIA2
 hysteria2://0I_Vi934gK9_Mq3240Xs_Bv2_kUi8Q34183g9hj_Bv6_7a@213.202.219.29:8443?sni=grape-sos-de.roxa.org&nonce=3PZqH4qG#🏴‍☠️ UN | HYSTERIA2
+hysteria2://6fa1b8eb-56f4-4f41-97dc-e0185bcfc575@hys.unlimitedteam.space:443?sni=hys.unlimitedteam.space&security=tls#🏴‍☠️ UN | HYSTERIA2
+hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443??descriptions=люби_себя3004b2#🏴‍☠️ UN | HYSTERIA2
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa9.api3-max.ru:443/?sni=wopa9.api3-max.ru#🏴‍☠️ UN | HYSTERIA2
