@@ -100,3 +100,4 @@ hysteria2://ew9_M93_6a31Qd45_hUX3984F_jNZ83x_Nz1l_f@94.20.88.13:8443?insecure=1&
 hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52016?security=tls&obfs=salamander&obfs-password=fsc92dsh321o5h3r&insecure=0&sni=assets.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
 hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52088?security=tls&obfs=salamander&obfs-password=qfsk2h15o2dm0msi&insecure=0&sni=assets.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
 hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@fr2.xiaoliyu.cyou:10086/?insecure=1&obfs=salamander&obfs-password=T@T*FP7uq=!t&sni=fr2.xiaoliyu.cyou#🏴‍☠️ UN | HYSTERIA2
+hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@194.180.174.69:443/?sni=fr2.h2corp.org#🏴‍☠️ UN | HYSTERIA2
