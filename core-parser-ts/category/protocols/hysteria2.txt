@@ -101,3 +101,6 @@ hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52016?security=tls&obfs=s
 hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52088?security=tls&obfs=salamander&obfs-password=qfsk2h15o2dm0msi&insecure=0&sni=assets.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
 hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@fr2.xiaoliyu.cyou:10086/?insecure=1&obfs=salamander&obfs-password=T@T*FP7uq=!t&sni=fr2.xiaoliyu.cyou#🏴‍☠️ UN | HYSTERIA2
 hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@194.180.174.69:443/?sni=fr2.h2corp.org#🏴‍☠️ UN | HYSTERIA2
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?sni=ro.h2corp.org&nonce=5vHX-Uxl#🏴‍☠️ UN | HYSTERIA2
+hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443?insecure=0#🏴‍☠️ UN | HYSTERIA2
+hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52087?security=tls&fm={"udp":[{"settings":{"password":"bwgy7ppdoiz448uw"},"type":"salamander"}]}&sni=assets.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
