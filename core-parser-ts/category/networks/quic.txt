@@ -146,3 +146,6 @@ hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@194.180.174.69:443/
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?sni=ro.h2corp.org&nonce=5vHX-Uxl#🏴‍☠️ UN | HYSTERIA2
 hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443?insecure=0#🏴‍☠️ UN | HYSTERIA2
 hysteria2://kjq3gpn1xom1ted9@assets.gateway-stream.com:52087?security=tls&fm={"udp":[{"settings":{"password":"bwgy7ppdoiz448uw"},"type":"salamander"}]}&sni=assets.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.52.234:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🏴‍☠️ UN | HY2
+hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443/?sni=host-vds2-fr.kvncococ.org#🏴‍☠️ UN | HYSTERIA2
+hysteria2://gf1:gfhysteria2024@173.212.201.85:443/?insecure=1&sni=www.docker.com#🏴‍☠️ UN | HYSTERIA2
