@@ -40,3 +40,5 @@ hy2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801/?insecure=1&
 hy2://99800091-8337-4112-8756-8cc60eb1ffa8@nl6.unlockvpn.online:10808/?insecure=1&sni=nl6.unlockvpn.online#🏴‍☠️ UN | HY2
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.52.234:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🏴‍☠️ UN | HY2
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.128.48:443?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🏴‍☠️ UN | HY2
+hy2://53f193c4-6482-45fb-8e00-60e0baf016ee@207.56.227.226:48920/?insecure=1&sni=www.bing.com#🏴‍☠️ UN | HY2
+hy2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@yg3.mangshe.xyz:2056/?insecure=1&sni=yg3.mangshe.xyz#🏴‍☠️ UN | HY2
