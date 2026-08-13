@@ -42,3 +42,4 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.52.234:443?insecure=1&sni=speedtest.tinkof
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.128.48:443?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🏴‍☠️ UN | HY2
 hy2://53f193c4-6482-45fb-8e00-60e0baf016ee@207.56.227.226:48920/?insecure=1&sni=www.bing.com#🏴‍☠️ UN | HY2
 hy2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@yg3.mangshe.xyz:2056/?insecure=1&sni=yg3.mangshe.xyz#🏴‍☠️ UN | HY2
+hy2://2b5f7fc3d38f4798a0f62d4ef8876528@82.22.41.125:443?obfs=salamander&obfs-password=1yvnm8sv41&sni=pl6.lckdwn.ru#🏴‍☠️ UN | HY2
