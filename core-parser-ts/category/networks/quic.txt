@@ -166,3 +166,4 @@ hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52087?alp
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52089?alpn=h3&fm={"udp":[{"settings":{"password":"hitar6eeayxd7imh"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=hitar6eeayxd7imh&security=tls&sni=assets.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
 hy2://2b5f7fc3d38f4798a0f62d4ef8876528@82.22.41.125:443?obfs=salamander&obfs-password=1yvnm8sv41&sni=pl6.lckdwn.ru#🏴‍☠️ UN | HY2
 hysteria2://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.27.210:8080?sni=borat-hopp.bumbleshrimp.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52031?alpn=h3&fm={"udp":[{"settings":{"password":"p61ckuavkc1s2hfl"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=p61ckuavkc1s2hfl&security=tls&sni=assets.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
