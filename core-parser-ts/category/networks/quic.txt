@@ -167,3 +167,7 @@ hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52089?alp
 hy2://2b5f7fc3d38f4798a0f62d4ef8876528@82.22.41.125:443?obfs=salamander&obfs-password=1yvnm8sv41&sni=pl6.lckdwn.ru#🏴‍☠️ UN | HY2
 hysteria2://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.27.210:8080?sni=borat-hopp.bumbleshrimp.com#🏴‍☠️ UN | HYSTERIA2
 hysteria2://3ff7b2e75ce84d05ae16572b60a9b707@assets.gateway-stream.com:52031?alpn=h3&fm={"udp":[{"settings":{"password":"p61ckuavkc1s2hfl"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=p61ckuavkc1s2hfl&security=tls&sni=assets.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://130e6aab-9eba-441e-9021-22cbccc72832@srvhy1.ezcon24.online:8443?sni=srvhy1.ezcon24.online#🏴‍☠️ UN | HYSTERIA2
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.220:8443/?sni=grape-turbo-fr.roxa.org#🏴‍☠️ UN | HYSTERIA2
+hy2://553e3253-c454-431d-a7e6-42bc06ea5e14@srvhy1.ezcon24.online:8443/?insecure=1&sni=srvhy1.ezcon24.online#🏴‍☠️ UN | HY2
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443/?insecure=1#🏴‍☠️ UN | HY2
