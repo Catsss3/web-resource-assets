@@ -171,3 +171,7 @@ hysteria2://130e6aab-9eba-441e-9021-22cbccc72832@srvhy1.ezcon24.online:8443?sni=
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.220:8443/?sni=grape-turbo-fr.roxa.org#🏴‍☠️ UN | HYSTERIA2
 hy2://553e3253-c454-431d-a7e6-42bc06ea5e14@srvhy1.ezcon24.online:8443/?insecure=1&sni=srvhy1.ezcon24.online#🏴‍☠️ UN | HY2
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443/?insecure=1#🏴‍☠️ UN | HY2
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at164.mechvpn.online:443?alpn=h3&sni=at164.mechvpn.online#🏴‍☠️ UN | HYSTERIA2
+hysteria2://d86efa900c2f4bb6bde662f1ef6413b8@assets.gateway-stream.com:52029?security=tls&obfs=salamander&obfs-password=v8h63irhnay97090&insecure=0&sni=assets.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://553e3253-c454-431d-a7e6-42bc06ea5e14@srvhy1.ezcon24.online:8443?sni=srvhy1.ezcon24.online#🏴‍☠️ UN | HYSTERIA2
+hy2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@xjp4.mangshe.xyz:2060/?insecure=1&sni=xjp4.mangshe.xyz#🏴‍☠️ UN | HY2
