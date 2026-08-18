@@ -180,3 +180,10 @@ hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.132:8080?sni=grape
 hysteria2://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.27.221:8443?security=tls&sni=borat-hopp.bumbleshrimp.com#🏴‍☠️ UN | HYSTERIA2
 hy2://425e9e31-b017-4e32-bbd3-656473466d5e@latvia.koalaexpress.ru:2443/?insecure=1&sni=latvia.koalaexpress.ru#🏴‍☠️ UN | HY2
 hy2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.21:8443/?insecure=1&sni=keyhop-offshore.roxa.org#🏴‍☠️ UN | HY2
+hysteria2://55b71f97202647049ce999646de57c50@f1b.wareznet.ru:8444?peer=f1b.wareznet.ru#🏴‍☠️ UN | HYSTERIA2
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8080?insecure=1&sni=grape-turbo-fr.roxa.org#🏴‍☠️ UN | HYSTERIA2
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52040?security=tls&obfs=salamander&obfs-password=7206pa46enqqdnmt&insecure=0&sni=assets.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52049?alpn=h3&fm={"udp":[{"settings":{"password":"phos93w1zi0nj6uv"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=phos93w1zi0nj6uv&security=tls&sni=assets.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52067?alpn=h3&fm={"udp":[{"settings":{"password":"txwr28j1lntoy0sj"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=txwr28j1lntoy0sj&security=tls&sni=assets.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?security=tls&obfs=salamander&obfs-password=d6pv15sghiq1onts&insecure=0&sni=assets.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.165:8443?security=tls&insecure=0&sni=grape-zet-ro-turbo.bumbleshrimp.com#🏴‍☠️ UN | HYSTERIA2
