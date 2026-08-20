@@ -48,3 +48,5 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443/?insecure=1#🏴‍☠️ UN |
 hy2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@xjp4.mangshe.xyz:2060/?insecure=1&sni=xjp4.mangshe.xyz#🏴‍☠️ UN | HY2
 hy2://425e9e31-b017-4e32-bbd3-656473466d5e@latvia.koalaexpress.ru:2443/?insecure=1&sni=latvia.koalaexpress.ru#🏴‍☠️ UN | HY2
 hy2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.21:8443/?insecure=1&sni=keyhop-offshore.roxa.org#🏴‍☠️ UN | HY2
+hy2://9gWt2z3KdC9VI8kAQYVvvSvhT9e05CfI@vip-sg-1.hkd4fwmg.vip:12645/?insecure=1&sni=vip-sg-1.hkd4fwmg.vip#🏴‍☠️ UN | HY2
+hy2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135/?insecure=1&sni=vip-jp-4.hkd4fwmg.vip#🏴‍☠️ UN | HY2
