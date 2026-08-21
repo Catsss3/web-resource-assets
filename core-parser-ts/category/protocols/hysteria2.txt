@@ -143,3 +143,5 @@ hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.73:8443/?insecure=1&
 hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?security=tls&insecure=0&sni=gorbachev-new-th.kvnfreetest.uk#🏴‍☠️ UN | HYSTERIA2
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443?sni=fr194.mechvpn.online#🏴‍☠️ UN | HYSTERIA2
 hysteria2://Foc_Mcxi45rM9v3ve_N92fdrK_10_Ssc5@185.39.31.40:8443?insecure=1&sni=grape-beer.yyuyy.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?security=tls&insecure=1&sni=152-67-200-82.liao.kdns.fr#🏴‍☠️ UN | HYSTERIA2
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us65.mechvpn.online:443#🏴‍☠️ UN | HYSTERIA2
