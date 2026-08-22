@@ -51,3 +51,4 @@ hy2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.21:8443/?insecure=1&sni=k
 hy2://9gWt2z3KdC9VI8kAQYVvvSvhT9e05CfI@vip-sg-1.hkd4fwmg.vip:12645/?insecure=1&sni=vip-sg-1.hkd4fwmg.vip#🏴‍☠️ UN | HY2
 hy2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135/?insecure=1&sni=vip-jp-4.hkd4fwmg.vip#🏴‍☠️ UN | HY2
 hy2://ZYTopBPE6fGijECIcT3KxqFEpjQJ44ND@vip-sg-2.hkd4fwmg.vip:55793/?insecure=1&sni=vip-sg-2.hkd4fwmg.vip#🏴‍☠️ UN | HY2
+hy2://9q3Mb0IzSVbnwaqK@18.162.42.61:16001/?sni=hk-ls-r-1.czzhkractqqakfzdmrgd.cc#🏴‍☠️ UN | HY2

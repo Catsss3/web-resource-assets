@@ -201,3 +201,7 @@ hy2://oU4tGn37oQ9JGmqnlTGkU3knrfAbclsq@vip-jp-4.hkd4fwmg.vip:32135/?insecure=1&s
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?security=tls&insecure=1&sni=152-67-200-82.liao.kdns.fr#🏴‍☠️ UN | HYSTERIA2
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us65.mechvpn.online:443#🏴‍☠️ UN | HYSTERIA2
 hy2://ZYTopBPE6fGijECIcT3KxqFEpjQJ44ND@vip-sg-2.hkd4fwmg.vip:55793/?insecure=1&sni=vip-sg-2.hkd4fwmg.vip#🏴‍☠️ UN | HY2
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@cabinet.wwwinternetvideo.click:443/?insecure=1&sni=cabinet.wwwinternetvideo.click#🏴‍☠️ UN | HYSTERIA2
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8443?insecure=1&sni=hopp-legend-se.roxa.org#🏴‍☠️ UN | HYSTERIA2
+hy2://9q3Mb0IzSVbnwaqK@18.162.42.61:16001/?sni=hk-ls-r-1.czzhkractqqakfzdmrgd.cc#🏴‍☠️ UN | HY2
+hysteria2://V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8@player.wwwinternetvideo.click:443/?insecure=1&sni=player.wwwinternetvideo.click#🏴‍☠️ UN | HYSTERIA2
