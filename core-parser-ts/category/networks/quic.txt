@@ -205,3 +205,6 @@ hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@cabinet.wwwinternetvideo.click:
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8443?insecure=1&sni=hopp-legend-se.roxa.org#🏴‍☠️ UN | HYSTERIA2
 hy2://9q3Mb0IzSVbnwaqK@18.162.42.61:16001/?sni=hk-ls-r-1.czzhkractqqakfzdmrgd.cc#🏴‍☠️ UN | HY2
 hysteria2://V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8@player.wwwinternetvideo.click:443/?insecure=1&sni=player.wwwinternetvideo.click#🏴‍☠️ UN | HYSTERIA2
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@bg185.mechvpn.online:443?alpn=h3&sni=bg185.mechvpn.online#🏴‍☠️ UN | HYSTERIA2
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@cabinet.wwwinternetvideo.click:443?sni=cabinet.wwwinternetvideo.click#🏴‍☠️ UN | HYSTERIA2
+hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?insecure=1&sni=hopp-legend-se.roxa.org#🏴‍☠️ UN | HY2
