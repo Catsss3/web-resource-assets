@@ -216,3 +216,8 @@ hy2://0bacdaea-099b-462b-b625-d7d44c89aace@94.156.250.67:55000/?insecure=1&sni=w
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8443?security=tls&insecure=0&sni=grape-turbo-fr.roxa.org#🏴‍☠️ UN | HYSTERIA2
 hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?sni=srv-17e124.21freedom.net\u0026fp=chrome\u0026security=tls&insecure=1#🏴‍☠️ UN | HYSTERIA2
 tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?alpn=h3&congestion_control=bbr&sni=sg2-8sb.6121999.dpdns.org&udp=true&udp_relay_mode=quic#🏴‍☠️ UN | TUIC
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?insecure=1&sni=admin.wwwinternetvideo.click#🏴‍☠️ UN | HYSTERIA2
+tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:33738?sni=sg2-8sb.6121999.dpdns.org&congestion_control=bbr&udp_relay_mode=quic&alpn=h3#🏴‍☠️ UN | TUIC
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8443?sni=hopp-legend-se.roxa.org#🏴‍☠️ UN | HYSTERIA2
+hysteria2://ilkbtuxd94xofam1@giftcard.gateway-stream.com:52001?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl7.unlockvpn.online:10808?security=tls&insecure=0&sni=nl7.unlockvpn.online#🏴‍☠️ UN | HYSTERIA2
