@@ -167,3 +167,6 @@ hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.131:8443?sni=grape
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.231:8080?sni=hopp-legend-se.roxa.org#🏴‍☠️ UN | HYSTERIA2
 hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=1&sni=de1.sferavpn.pro#🏴‍☠️ UN | HYSTERIA2
 hysteria2://zvxywxoorgqk3fzb@giftcard.gateway-stream.com:52019?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443?sni=pixelcast.wwwinternetvideo.click&insecure=1#🏴‍☠️ UN | HYSTERIA2
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?security=tls&insecure=1#🏴‍☠️ UN | HYSTERIA2
+hysteria2://AstroVPN_official@ptserv.accuratenetworkchecker.ir:36896?security=tls&obfs=salamander&obfs-password=pr317jpnr2arr09j&insecure=0&sni=lms22.gelzaro.ir#🏴‍☠️ UN | HYSTERIA2
