@@ -58,3 +58,4 @@ hy2://0bacdaea-099b-462b-b625-d7d44c89aace@94.156.250.67:55000/?insecure=1&sni=w
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.54.166:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#🏴‍☠️ UN | HY2
 hy2://Telegram@vpnjey@77.110.96.201:36264/?insecure=1&sni=se.vpnjey2.dpdns.org&obfs=salamander&obfs-password=Telegram@vpnjey#🏴‍☠️ UN | HY2
 hy2://Telegram@vpnjey@31.76.27.23:37009/?insecure=1&sni=de.vpnjey.store&obfs=salamander&obfs-password=Telegram@vpnjey#🏴‍☠️ UN | HY2
+hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160/?insecure=1&sni=www.bing.com#🏴‍☠️ UN | HY2
