@@ -208,3 +208,4 @@ hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52006?alpn=h3&fp=chrome
 hysteria2://7nob86hyaj5rm0en@giftcard.gateway-stream.com:52030?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.2:8443?sni=hopp-germany-new.ddnsguru.com#🏴‍☠️ UN | HYSTERIA2
 hysteria2://0db4a6c709ca4a46153af8a401b7138a@se.allgoodvpn.su:8443/?insecure=0&sni=se.allgoodvpn.su#🏴‍☠️ UN | HYSTERIA2
+hysteria2://OD6gGbGU9a@195.133.24.124:443/?sni=hys26.wba-pn.ru#🏴‍☠️ UN | HYSTERIA2
