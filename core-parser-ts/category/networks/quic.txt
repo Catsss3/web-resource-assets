@@ -279,3 +279,12 @@ hysteria2://OD6gGbGU9a@195.133.24.124:443/?sni=hys26.wba-pn.ru#🏴‍☠️ UN 
 hysteria2://6mk75ho4jzef3uuj@giftcard.gateway-stream.com:52022?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.6:8443?sni=hopp-germany-new.ddnsguru.com#🏴‍☠️ UN | HYSTERIA2
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.184:8443?sni=hopp-romania-new.roxa.org#🏴‍☠️ UN | HYSTERIA2
+hysteria2://vz86jgszv4zszchv@giftcard.gateway-stream.com:52024?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://vz86jgszv4zszchv@giftcard.gateway-stream.com:52068?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://C0DD7bgChaltqnh/T2az6ijM@140.238.31.111:20000?security=tls&obfs=salamander&obfs-password=C0DD7bgChaltqnh/T2az6ijM&sni=rmgyvpn.rest#🏴‍☠️ UN | HYSTERIA2
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.2:8443?insecure=1&sni=hopp-germany-new.ddnsguru.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080?security=tls&sni=hopp-romania-new.roxa.org#🏴‍☠️ UN | HYSTERIA2
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080?security=tls&insecure=0&sni=hopp-legend-se.roxa.org#🏴‍☠️ UN | HYSTERIA2
+hysteria2://6f716a3e-2843-4930-94ab-d21af3b4927f@forever.h4ck.me:443/?sni=forever.h4ck.me#🏴‍☠️ UN | HYSTERIA2
+hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52067?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
