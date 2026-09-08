@@ -221,3 +221,7 @@ hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080?security=
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080?security=tls&insecure=0&sni=hopp-legend-se.roxa.org#🏴‍☠️ UN | HYSTERIA2
 hysteria2://6f716a3e-2843-4930-94ab-d21af3b4927f@forever.h4ck.me:443/?sni=forever.h4ck.me#🏴‍☠️ UN | HYSTERIA2
 hysteria2://s6gt5e4mof43sfg8@giftcard.gateway-stream.com:52067?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://vz86jgszv4zszchv@giftcard.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://vz86jgszv4zszchv@giftcard.gateway-stream.com:52030?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8443?sni=hopp-romania-new.roxa.org&insecure=1#🏴‍☠️ UN | HYSTERIA2
+hysteria2://975e9f98b4a1b01285ffdb8158ced798@107.172.76.105:443/?insecure=1&obfs=salamander&obfs-password=c8d95078e61be690c18e2fbbefe5e2ef&sni=www.bing.com#🏴‍☠️ UN | HYSTERIA2
