@@ -235,3 +235,5 @@ hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.6:8443/?sni=hopp-germany-new.ddnsguru.com#🏴‍☠️ UN | HYSTERIA2
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.171:8443?sni=hopp-romania-new.roxa.org&insecure=1#🏴‍☠️ UN | HYSTERIA2
 hysteria2://fr9p9ji70krwnup6@giftcard.gateway-stream.com:52056?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.176:8080?security=tls&sni=hopp-romania-new.roxa.org#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.170:8443?insecure=1&sni=hopp-romania-new.roxa.org&obfs=&obfs-password=#🏴‍☠️ UN | HYSTERIA2
