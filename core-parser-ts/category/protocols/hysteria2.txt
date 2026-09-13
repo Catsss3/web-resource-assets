@@ -241,3 +241,6 @@ hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.183:8443?security=
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.141:8443?insecure=0&sni=grape-turbo-fr.roxa.org#🏴‍☠️ UN | HYSTERIA2
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?insecure=0&sni=hy2-new.aspidnet.xyz&obfs-password=c1b4086fea89914496c7e10967a419216566&security=tls&obfs=salamander#🏴‍☠️ UN | HYSTERIA2
 hysteria2://29ffde49-e1d6-4dcd-a135-352920f9f0b8@se-node.rumedia-cdn.com:25443/?sni=cf2.rumedia-cdn.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.147:8443?sni=grape-turbo-fr.roxa.org#🏴‍☠️ UN | HYSTERIA2
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&fm={"udp":[{"settings":{"password":"44f1c1e2f8b99e792ceed574627a1eb0"},"type":"salamander"}]}&sni=ru1.sferavpn.pro#🏴‍☠️ UN | HYSTERIA2
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=nl1.sferavpn.pro#🏴‍☠️ UN | HYSTERIA2
