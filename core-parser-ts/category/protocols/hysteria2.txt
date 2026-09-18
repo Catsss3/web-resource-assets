@@ -257,3 +257,6 @@ hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?__rand=0ecd69e
 hysteria2://xbr3ppxk7rv068c4@assets.gateway-stream.com:52023?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=detgimgm8qh8i2g2#🏴‍☠️ UN | HYSTERIA2
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443?sni=admin.wwwinternetvideo.click#🏴‍☠️ UN | HYSTERIA2
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@217.60.182.79:443?security=tls&insecure=1&sni=cabinet.wwwinternetvideo.click#🏴‍☠️ UN | HYSTERIA2
+hysteria2://d4a705d40356ef719212045528e04594@45.149.172.80:443?insecure=1&obfs=salamander&obfs-password=5c8f1a3e7b2d9046c1f8a5e3b7d04f2a#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.176:8080?sni=hopp-romania-new.roxa.org&insecure=0#🏴‍☠️ UN | HYSTERIA2
+hysteria2://29ffde49-e1d6-4dcd-a135-352920f9f0b8@de-node.rumedia-cdn.com:25443/?insecure=1&sni=cf6.rumedia-cdn.com#🏴‍☠️ UN | HYSTERIA2
