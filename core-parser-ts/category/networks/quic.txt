@@ -328,3 +328,5 @@ hysteria2://d4a705d40356ef719212045528e04594@45.149.172.80:443?insecure=1&obfs=s
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.176:8080?sni=hopp-romania-new.roxa.org&insecure=0#🏴‍☠️ UN | HYSTERIA2
 tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?alpn=h3&udp=true&sni=sg2-8sb.6121999.dpdns.org&congestion_control=cubic&udp_relay_mode=native#🏴‍☠️ UN | TUIC
 hysteria2://29ffde49-e1d6-4dcd-a135-352920f9f0b8@de-node.rumedia-cdn.com:25443/?insecure=1&sni=cf6.rumedia-cdn.com#🏴‍☠️ UN | HYSTERIA2
+tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:33738?sni=sg2-8sb.6121999.dpdns.org&congestion_control=bbr&udp_relay_mode=bbr&alpn=h3#🏴‍☠️ UN | TUIC
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.171:8443?security=tls&insecure=1&sni=hopp-romania-new.roxa.org#🏴‍☠️ UN | HYSTERIA2
