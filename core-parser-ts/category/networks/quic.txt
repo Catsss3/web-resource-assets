@@ -335,3 +335,6 @@ hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.184:8443?security=
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?sni=msk.frkn.org&seq=you_are_beautiful8912&_t=fd2725b4&insecure=false&freeinternet=kizyak_vpn1789080095563&descriptions=люби_себя8062dd&seq=you_are_beautiful4650&_t=e6b75836&_t=d8a97610&freeinternet=kizyak_vpn1789063501895&burmalda=7a0c51a8&descriptions=люби_себяed6849&burmalda=05072c84&nonce=QNtREwo2&burmalda=66256b15&nonce=wvxW6G5-&freeinternet=kizyak_vpn1789121109970&descriptions=люби_себя27efc3&descriptions=люби_себя4fb5da&__rand=d2eea4b8&up-mbps=0&burmalda=5fd6a979#🏴‍☠️ UN | HYSTERIA2
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.177:8080?sni=hopp-romania-new.roxa.org#🏴‍☠️ UN | HYSTERIA2
 hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?sni=de1.sferavpn.pro&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.176:8443?sni=hopp-romania-new.roxa.org&insecure=1#🏴‍☠️ UN | HYSTERIA2
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🏴‍☠️ UN | HYSTERIA2
+hysteria2://HysTeria2026!Proxy@mz.hkychina.com:8443?security=tls&insecure=0&sni=mz.hkychina.com#🏴‍☠️ UN | HYSTERIA2
