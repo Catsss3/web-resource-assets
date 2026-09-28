@@ -350,3 +350,7 @@ hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443/?obf
 tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738?sni=sg2-8sb.6121999.dpdns.org&congestion_control=bbr&udp_relay_mode=quic&alpn=h3#🏴‍☠️ UN | TUIC
 hysteria2://V2RayyNGvpn@168.222.43.35:443?security=tls&obfs=salamander&obfs-password=V2RayyNGvpn&insecure=0&pinSHA256=8b5ac8eb1c23f208cb6e92bd41407d32994b0668d3ba2b0cd56400dca8c0b843&sni=Play.google.com#🏴‍☠️ UN | HYSTERIA2
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8443?sni=hopp-romania-new.roxa.org&insecure=0#🏴‍☠️ UN | HYSTERIA2
+hysteria2://5413edfb-08d6-4fba-b51c-809c04feb127@77.110.104.238:443?sni=ch2-hy2.veilvpn.life&alpn=h3#🏴‍☠️ UN | HYSTERIA2
+hysteria2://cf83b611-6cba-4535-adcb-8da06c6a9146@144.31.212.253:443?sni=vps155-edge.kermemehori.ru#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080/?insecure=1&sni=hopp-romania-new.roxa.org#🏴‍☠️ UN | HYSTERIA2
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8080/?insecure=1&sni=hopp-romania-new.roxa.org#🏴‍☠️ UN | HYSTERIA2
