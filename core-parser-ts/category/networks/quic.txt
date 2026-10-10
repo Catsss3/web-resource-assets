@@ -384,3 +384,6 @@ hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.100:8443/?insecure=
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333/?security=tls&sni=hy2.123266.xyz#🏴‍☠️ UN | HYSTERIA2
 hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.235:8443?insecure=1&security=tls&sni=hopp-swizland-new.mysynology.net#🏴‍☠️ UN | HYSTERIA2
 hysteria2://77f73bd5-51bf-4143-8ebd-02f56ba376f4@177.1.195.242:24000?security=tls&obfs=salamander&obfs-password=9VK3Nqd0bcXGPxcay9hRLY28HBtKo5&insecure=0&mport=24000-24999&sni=hy.kirian.su#🏴‍☠️ UN | HYSTERIA2
+hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21047?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&insecure=1#🏴‍☠️ UN | HYSTERIA2
+hysteria2://dsmO0439gj_nX942GJRE_9j39fbcxv52_R@85.209.157.177:8080/?sni=hopp-transit.1cooldns.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.237:8443?sni=hopp-swizland-new.mysynology.net&insecure=1#🏴‍☠️ UN | HYSTERIA2
