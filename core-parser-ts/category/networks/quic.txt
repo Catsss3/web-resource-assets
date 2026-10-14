@@ -395,3 +395,6 @@ hysteria2://f83ce3c4-07d9-4895-bd14-cb74abbcab37@finkawwwbroy5.qcloud.surf:20326
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#🏴‍☠️ UN | HYSTERIA2
 hysteria2://6656cc0a-5908-4d04-a436-64f5843c0c7a@sweedenqfds777.qcloud.surf:21223?sni=sweedenqfds777.qcloud.surf&security=tls#🏴‍☠️ UN | HYSTERIA2
 hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@109.235.49.234:443?sni=tcp-reset-club.net&insecure=1#🏴‍☠️ UN | HYSTERIA2
+hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:21169?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&insecure=1#🏴‍☠️ UN | HYSTERIA2
+hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:33128?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&insecure=1#🏴‍☠️ UN | HYSTERIA2
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?security=tls&sni=admin.wwwinternetvideo.click&alpn=h3&insecure=0#🏴‍☠️ UN | HYSTERIA2
