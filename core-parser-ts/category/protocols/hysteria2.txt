@@ -325,3 +325,5 @@ hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@109.235.49.234:443?sni=tcp-rese
 hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:21169?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&insecure=1#🏴‍☠️ UN | HYSTERIA2
 hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:33128?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&insecure=1#🏴‍☠️ UN | HYSTERIA2
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?security=tls&sni=admin.wwwinternetvideo.click&alpn=h3&insecure=0#🏴‍☠️ UN | HYSTERIA2
+hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443/?sni=t.me&obfs=salamander&obfs-password=HysteriaHowdy&insecure=1#🏴‍☠️ UN | HYSTERIA2
+hysteria2://C0DD7bgChaltqnh/T2az6ijM@130.162.134.218:20000?security=tls&obfs=salamander&obfs-password=C0DD7bgChaltqnh/T2az6ijM&insecure=0&mport=20000-30000&sni=rmgyvpn.rest#🏴‍☠️ UN | HYSTERIA2
