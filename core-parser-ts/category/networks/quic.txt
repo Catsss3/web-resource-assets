@@ -402,3 +402,5 @@ hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443/?sni=t.me&obfs=salamander&obf
 hysteria2://C0DD7bgChaltqnh/T2az6ijM@130.162.134.218:20000?security=tls&obfs=salamander&obfs-password=C0DD7bgChaltqnh/T2az6ijM&insecure=0&mport=20000-30000&sni=rmgyvpn.rest#🏴‍☠️ UN | HYSTERIA2
 hy2://Telegram:vpnjey@179.61.138.145:36264/?sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram@vpnjey#🏴‍☠️ UN | HY2
 hysteria2://b8949dae-cb53-4b5a-ad9c-50f58c4656fb@us1.xiaoliyu.us:19512?insecure=1&sni=us1.xiaoliyu.us#🏴‍☠️ UN | HYSTERIA2
+hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net&insecure=1#🏴‍☠️ UN | HYSTERIA2
+hysteria2://56ff50da-a238-4646-95ab-dd159634bd87@37.9.4.112:17701?security=tls&obfs=salamander&obfs-password=588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce&insecure=0&sni=ru03.arpanet-cdn.com#🏴‍☠️ UN | HYSTERIA2
