@@ -425,3 +425,4 @@ hy2://bqkkvfp9zf051rsb@wryyjy31.easyiran.org:31340/?hop_interval=10&sni=wryyjy31
 hysteria2://Xg5RVA7OAqBS6zvK5J4RpOVm4UMRmL-I@bt.wufpel.ir:443?obfs=salamander&obfs-password=5P1G9AdY6Jx8giZJCuS4w_gV&fm={"udp":[{"type":"salamander","settings":{"password":"5P1G9AdY6Jx8giZJCuS4w_gV"}}]}&sni=124dfda72fbf73c9.wufpel.ir&fp=chrome#🏴‍☠️ UN | HYSTERIA2
 hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@217.60.72.225:443?sni=forshynewh.duckdns.org#🏴‍☠️ UN | HYSTERIA2
 hysteria2://4b1be712-774c-4b65-8491-a3339e124a70@194.76.147.34:443?sni=hys-eu.letsconnectpoint.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443#🏴‍☠️ UN | HYSTERIA2
