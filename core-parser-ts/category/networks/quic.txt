@@ -448,3 +448,5 @@ hysteria2://dongtaiwang.com@2001:bc8:32d7:17b::8:22000?sni=www.microsoft.com&up=
 tuic://cd1b0ae0-4010-11ee-953a-f23c9164ca5d:cd1b0ae0-4010-11ee-953a-f23c9164ca5d@104.105.139.38:443?alpn=h3&congestion_control=bbr&sni=de0bc027-teisg0-thtg7i-1lkt0.jp5.hyhuawei.com&sub_tag=M002-260618&udp=true&udp_relay_mode=native#🏴‍☠️ UN | TUIC
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4444?insecure=0&sni=bl1.nexfile.net#🏴‍☠️ UN | HYSTERIA2
 hysteria2://769f34f0-1500-488f-b414-03bc90666502@95.143.196.97:443?sni=se.mimowhat.online#🏴‍☠️ UN | HYSTERIA2
+hysteria2://d62s7ghfehm742us@151.243.169.164:12824?sni=derfderf.ru#🏴‍☠️ UN | HYSTERIA2
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444/?sni=pl3.nexfile.net#🏴‍☠️ UN | HYSTERIA2

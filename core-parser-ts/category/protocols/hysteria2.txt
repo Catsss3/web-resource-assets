@@ -369,3 +369,5 @@ hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.105:4444?security=tl
 hysteria2://dongtaiwang.com@2001:bc8:32d7:17b::8:22000?sni=www.microsoft.com&up=11&down=55&insecure=1#🏴‍☠️ UN | HYSTERIA2
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4444?insecure=0&sni=bl1.nexfile.net#🏴‍☠️ UN | HYSTERIA2
 hysteria2://769f34f0-1500-488f-b414-03bc90666502@95.143.196.97:443?sni=se.mimowhat.online#🏴‍☠️ UN | HYSTERIA2
+hysteria2://d62s7ghfehm742us@151.243.169.164:12824?sni=derfderf.ru#🏴‍☠️ UN | HYSTERIA2
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444/?sni=pl3.nexfile.net#🏴‍☠️ UN | HYSTERIA2
