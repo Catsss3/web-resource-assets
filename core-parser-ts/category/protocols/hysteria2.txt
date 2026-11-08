@@ -375,3 +375,6 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.203.180:443?insecure=1&security=tls#�
 hysteria2://02df03e3-3029-4c95-bffe-8f211b480672@edge.hankli1214.xyz:443?security=tls&obfs=salamander&obfs-password=MeJA9qgoYMH4UMunHowisrbd&insecure=0&sni=hank.hankli1214.xyz#🏴‍☠️ UN | HYSTERIA2
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4444/?insecure=1&sni=bl1.nexfile.net#🏴‍☠️ UN | HYSTERIA2
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@2.27.210.6:4444/?insecure=1&sni=lv2.nexfile.net#🏴‍☠️ UN | HYSTERIA2
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?sni=bl1.nexfile.net#🏴‍☠️ UN | HYSTERIA2
+hysteria2://63e1b9462d708b56d5d5a0267cffecdc@88.216.195.188:443?sni=promo3.goonars.com&insecure=0#🏴‍☠️ UN | HYSTERIA2
+hysteria2://5ictxgawam84vgrp@109.70.74.213:2098?security=tls&obfs=salamander&obfs-password=7922smqtd5qm70fu&insecure=0&sni=109.70.74.213#🏴‍☠️ UN | HYSTERIA2
