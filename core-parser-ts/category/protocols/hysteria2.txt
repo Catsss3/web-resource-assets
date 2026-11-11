@@ -380,3 +380,5 @@ hysteria2://63e1b9462d708b56d5d5a0267cffecdc@88.216.195.188:443?sni=promo3.goona
 hysteria2://5ictxgawam84vgrp@109.70.74.213:2098?security=tls&obfs=salamander&obfs-password=7922smqtd5qm70fu&insecure=0&sni=109.70.74.213#🏴‍☠️ UN | HYSTERIA2
 hysteria2://d62s7ghfehm742us@151.243.169.164:12824?sni=derfderf.ru&insecure=0#🏴‍☠️ UN | HYSTERIA2
 hysteria2://63e1b9462d708b56d5d5a0267cffecdc@88.216.195.188:443/?sni=promo3.goonars.com#🏴‍☠️ UN | HYSTERIA2
+hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?sni=promo.betust.net#🏴‍☠️ UN | HYSTERIA2
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.101:4444?security=tls&insecure=0&sni=pl1.nexfile.net#🏴‍☠️ UN | HYSTERIA2
