@@ -464,3 +464,5 @@ tuic://73bfcc1c-5814-5f2a-b43a-3ef6af011db8:73bfcc1c-5814-5f2a-b43a-3ef6af011db8
 tuic://73bfcc1c-5814-5f2a-b43a-3ef6af011db8:73bfcc1c-5814-5f2a-b43a-3ef6af011db8@54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com:443?alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com&udp_relay_mode=native&version=5#🏴‍☠️ UN | TUIC
 hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?sni=promo.betust.net#🏴‍☠️ UN | HYSTERIA2
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.101:4444?security=tls&insecure=0&sni=pl1.nexfile.net#🏴‍☠️ UN | HYSTERIA2
+hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?sni=lakes.blog-forme.ru#🏴‍☠️ UN | HYSTERIA2
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@pl3.nexfile.net:4444?sni=pl3.nexfile.net#🏴‍☠️ UN | HYSTERIA2
