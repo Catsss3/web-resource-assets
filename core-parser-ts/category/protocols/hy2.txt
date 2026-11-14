@@ -66,3 +66,5 @@ hy2://Telegram-vpnjey@179.61.138.145:36264/?sni=de2.jey.cc.cd&obfs=salamander&ob
 hy2://bqkkvfp9zf051rsb@wryyjy31.easyiran.org:31340/?hop_interval=10&sni=wryyjy31.easyiran.org&obfs=salamander&obfs-password=4klsymrb2lsncw50#🏴‍☠️ UN | HY2
 hy2://84kwheyd5evfdomw@815mgcee.easyiran.org:54753/?hop_interval=10&sni=815mgcee.easyiran.org&obfs=salamander&obfs-password=awd7e2wmcz9zaoeb#🏴‍☠️ UN | HY2
 hy2://eik6hcffscbuqdbt@kp09bn7y.easyiran.org:46183/?hop_interval=10&sni=kp09bn7y.easyiran.org&obfs=salamander&obfs-password=egnqz8stetfo2ci9#🏴‍☠️ UN | HY2
+hy2://307ee0e53ea04dfd86a7f2f9fcd53844@s5.libertyrunet.store:443/?hop_interval=10&sni=s5.libertyrunet.store#🏴‍☠️ UN | HY2
+hy2://STYyftThFn@freedom.chenlan.top:12765?#🏴‍☠️ UN | HY2
