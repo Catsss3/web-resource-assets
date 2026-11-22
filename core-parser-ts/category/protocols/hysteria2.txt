@@ -406,3 +406,5 @@ hysteria2://5508bd06-ab98-4806-a8cc-4edd52fbf2f4@ne13847.cdn-video.pro:443/?sni=
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4444?sni=bl1.nexfile.net&insecure=0#🏴‍☠️ UN | HYSTERIA2
 hysteria2://917f4b0a-8b3b-404c-aa60-b47e83a33e8f@150.241.74.160:30443?sni=tll.nikomy.uk#🏴‍☠️ UN | HYSTERIA2
 hysteria2://5s7qa8f78hznlw8g@3.120.145.15:41018?sni=quotes.ali-khamenei.world&insecure=0&obfs=salamander&obfs-password=v0qq015d7c8zgzu7&upmbps=0&downmbps=0#🏴‍☠️ UN | HYSTERIA2
+hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:10444/?security=tls&sni=germany.cloudhouse1.ru#🏴‍☠️ UN | HYSTERIA2
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.171:4444?sni=fl4.edgeport.cloud#🏴‍☠️ UN | HYSTERIA2
