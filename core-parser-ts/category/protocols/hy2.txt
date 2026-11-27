@@ -68,3 +68,4 @@ hy2://84kwheyd5evfdomw@815mgcee.easyiran.org:54753/?hop_interval=10&sni=815mgcee
 hy2://eik6hcffscbuqdbt@kp09bn7y.easyiran.org:46183/?hop_interval=10&sni=kp09bn7y.easyiran.org&obfs=salamander&obfs-password=egnqz8stetfo2ci9#🏴‍☠️ UN | HY2
 hy2://307ee0e53ea04dfd86a7f2f9fcd53844@s5.libertyrunet.store:443/?hop_interval=10&sni=s5.libertyrunet.store#🏴‍☠️ UN | HY2
 hy2://STYyftThFn@freedom.chenlan.top:12765?#🏴‍☠️ UN | HY2
+hy2://688d05790b544bf2bd6be3e7b1dc31b6@link-v1.via-x.ru:8445?obfs=salamander&obfs-password=mmnn3ws0yrmsouwn&sni=hub.via-x.ru#🏴‍☠️ UN | HY2
